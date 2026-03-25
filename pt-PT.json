@@ -2815,5 +2815,10 @@
   "licensesUsed": "Licenças utilizadas",
   "addLicense": "Adicionar licença",
   "renewsDate": "Renova em {date}",
-  "exportingTripsAndCosts": "Exportação de viagens e custos"
+  "exportingTripsAndCosts": "Exportação de viagens e custos",
+  "dangerZone": "Zona de perigo",
+  "manageHowYouSignInToYourAccount": "Gerir a forma como inicia sessão na sua conta",
+  "manageSessionsAndAccess": "Gerir sessões e acessos",
+  "permanentlyDeleteYourAccountAndData": "Eliminar permanentemente a sua conta e os seus dados",
+  "keepAccessoryPowerModeAwayDescription": "Fornece alimentação aos acessórios quando está ausente"
 }

@@ -2815,5 +2815,10 @@
   "licensesUsed": "Использовано лицензий",
   "addLicense": "Добавить лицензию",
   "renewsDate": "Продлевается {date}",
-  "exportingTripsAndCosts": "Экспорт поездок и затрат"
+  "exportingTripsAndCosts": "Экспорт поездок и затрат",
+  "dangerZone": "Опасная зона",
+  "manageHowYouSignInToYourAccount": "Управляйте способами входа в вашу учетную запись",
+  "manageSessionsAndAccess": "Управляйте сеансами и доступом",
+  "permanentlyDeleteYourAccountAndData": "Безвозвратно удалите свою учетную запись и данные",
+  "keepAccessoryPowerModeAwayDescription": "Подает питание на аксессуары, когда вас нет рядом"
 }

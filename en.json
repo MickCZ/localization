@@ -2815,5 +2815,10 @@
   "licensesUsed": "Licenses used",
   "addLicense": "Add license",
   "renewsDate": "Renews {date}",
-  "exportingTripsAndCosts": "Exporting trips and costs"
+  "exportingTripsAndCosts": "Exporting trips and costs",
+  "dangerZone": "Danger zone",
+  "manageHowYouSignInToYourAccount": "Manage how you sign in to your account",
+  "manageSessionsAndAccess": "Manage sessions and access",
+  "permanentlyDeleteYourAccountAndData": "Permanently delete your account and data",
+  "keepAccessoryPowerModeAwayDescription": "Provides accessory power when you're away"
 }

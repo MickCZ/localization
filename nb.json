@@ -2815,5 +2815,10 @@
   "licensesUsed": "Lisenser i bruk",
   "addLicense": "Legg til lisens",
   "renewsDate": "Fornyes {date}",
-  "exportingTripsAndCosts": "Eksport av turer og kostnader"
+  "exportingTripsAndCosts": "Eksport av turer og kostnader",
+  "dangerZone": "Faresone",
+  "manageHowYouSignInToYourAccount": "Administrer hvordan du logger inn på kontoen din",
+  "manageSessionsAndAccess": "Administrer økter og tilgang",
+  "permanentlyDeleteYourAccountAndData": "Slett kontoen og dataene dine permanent",
+  "keepAccessoryPowerModeAwayDescription": "Gir tilbehør strøm når du er borte"
 }

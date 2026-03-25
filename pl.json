@@ -2815,5 +2815,10 @@
   "licensesUsed": "Wykorzystane licencje",
   "addLicense": "Dodaj licencję",
   "renewsDate": "Odnowi się {date}",
-  "exportingTripsAndCosts": "Eksport podróży i kosztów"
+  "exportingTripsAndCosts": "Eksport podróży i kosztów",
+  "dangerZone": "Strefa zagrożenia",
+  "manageHowYouSignInToYourAccount": "Zarządzaj sposobem logowania do swojego konta",
+  "manageSessionsAndAccess": "Zarządzaj sesjami i dostępem",
+  "permanentlyDeleteYourAccountAndData": "Trwale usuń swoje konto i dane",
+  "keepAccessoryPowerModeAwayDescription": "Zapewnia zasilanie akcesoriów, gdy jesteś poza pojazdem"
 }

@@ -2815,5 +2815,10 @@
   "licensesUsed": "Använda licenser",
   "addLicense": "Lägg till licens",
   "renewsDate": "Förnyas {date}",
-  "exportingTripsAndCosts": "Export av resor och kostnader"
+  "exportingTripsAndCosts": "Export av resor och kostnader",
+  "dangerZone": "Riskzon",
+  "manageHowYouSignInToYourAccount": "Hantera hur du loggar in på ditt konto",
+  "manageSessionsAndAccess": "Hantera sessioner och åtkomst",
+  "permanentlyDeleteYourAccountAndData": "Radera ditt konto och dina data permanent",
+  "keepAccessoryPowerModeAwayDescription": "Ger tillbehör ström när du är borta"
 }

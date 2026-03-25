@@ -2815,5 +2815,10 @@
   "licensesUsed": "사용 중인 라이선스",
   "addLicense": "라이선스 추가",
   "renewsDate": "{date}에 갱신",
-  "exportingTripsAndCosts": "주행 및 비용 내보내기"
+  "exportingTripsAndCosts": "주행 및 비용 내보내기",
+  "dangerZone": "위험 구역",
+  "manageHowYouSignInToYourAccount": "계정에 로그인하는 방법을 관리하세요",
+  "manageSessionsAndAccess": "세션 및 접근 권한을 관리하세요",
+  "permanentlyDeleteYourAccountAndData": "계정과 데이터를 영구적으로 삭제하세요",
+  "keepAccessoryPowerModeAwayDescription": "자리를 비워도 액세서리에 전원을 공급합니다."
 }

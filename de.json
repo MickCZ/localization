@@ -2815,5 +2815,10 @@
   "licensesUsed": "Genutzte Lizenzen",
   "addLicense": "Lizenz hinzufügen",
   "renewsDate": "Verlängert sich am {date}",
-  "exportingTripsAndCosts": "Export von Fahrten und Kosten"
+  "exportingTripsAndCosts": "Export von Fahrten und Kosten",
+  "dangerZone": "Gefahrenzone",
+  "manageHowYouSignInToYourAccount": "Verwalte, wie du dich bei deinem Konto anmeldest",
+  "manageSessionsAndAccess": "Verwalte Sitzungen und Zugriffe",
+  "permanentlyDeleteYourAccountAndData": "Lösche dein Konto und deine Daten dauerhaft",
+  "keepAccessoryPowerModeAwayDescription": "Versorgt Zubehör mit Strom, wenn du weg bist"
 }

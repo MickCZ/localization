@@ -2815,5 +2815,10 @@
   "licensesUsed": "已使用授權",
   "addLicense": "新增授權",
   "renewsDate": "{date}續訂",
-  "exportingTripsAndCosts": "匯出行程和費用"
+  "exportingTripsAndCosts": "匯出行程和費用",
+  "dangerZone": "危險區域",
+  "manageHowYouSignInToYourAccount": "管理您登入帳戶的方式",
+  "manageSessionsAndAccess": "管理工作階段和存取權限",
+  "permanentlyDeleteYourAccountAndData": "永久刪除您的帳戶和資料",
+  "keepAccessoryPowerModeAwayDescription": "您離開時為輔助設備供電"
 }

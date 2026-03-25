@@ -2815,5 +2815,10 @@
   "licensesUsed": "Použité licence",
   "addLicense": "Přidat licenci",
   "renewsDate": "Obnoví se {date}",
-  "exportingTripsAndCosts": "Export jízd a nákladů"
+  "exportingTripsAndCosts": "Export jízd a nákladů",
+  "dangerZone": "Nebezpečná zóna",
+  "manageHowYouSignInToYourAccount": "Spravujte, jak se přihlašujete ke svému účtu",
+  "manageSessionsAndAccess": "Spravujte relace a přístup",
+  "permanentlyDeleteYourAccountAndData": "Trvale smažte svůj účet a data",
+  "keepAccessoryPowerModeAwayDescription": "Poskytuje napájení příslušenství, když jste pryč"
 }

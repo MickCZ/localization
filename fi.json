@@ -2815,5 +2815,10 @@
   "licensesUsed": "Käytetyt lisenssit",
   "addLicense": "Lisää lisenssi",
   "renewsDate": "Uusiutuu {date}",
-  "exportingTripsAndCosts": "Matkojen ja kustannusten vienti"
+  "exportingTripsAndCosts": "Matkojen ja kustannusten vienti",
+  "dangerZone": "Vaaravyöhyke",
+  "manageHowYouSignInToYourAccount": "Hallitse, miten kirjaudut tilillesi",
+  "manageSessionsAndAccess": "Hallitse istuntoja ja käyttöoikeuksia",
+  "permanentlyDeleteYourAccountAndData": "Poista tilisi ja tietosi pysyvästi",
+  "keepAccessoryPowerModeAwayDescription": "Tarjoaa virtaa lisävarusteille, kun olet poissa"
 }

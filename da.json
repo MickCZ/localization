@@ -2815,5 +2815,10 @@
   "licensesUsed": "Brugte licenser",
   "addLicense": "Tilføj licens",
   "renewsDate": "Fornyes {date}",
-  "exportingTripsAndCosts": "Eksport af ture og omkostninger"
+  "exportingTripsAndCosts": "Eksport af ture og omkostninger",
+  "dangerZone": "Farlig zone",
+  "manageHowYouSignInToYourAccount": "Administrer, hvordan du logger ind på din konto",
+  "manageSessionsAndAccess": "Administrer sessioner og adgang",
+  "permanentlyDeleteYourAccountAndData": "Slet din konto og dine data permanent",
+  "keepAccessoryPowerModeAwayDescription": "Giver strøm til tilbehør, når du er væk"
 }

@@ -2815,5 +2815,10 @@
   "licensesUsed": "使用中のライセンス",
   "addLicense": "ライセンスを追加",
   "renewsDate": "{date}に更新されます",
-  "exportingTripsAndCosts": "走行とコストのエクスポート"
+  "exportingTripsAndCosts": "走行とコストのエクスポート",
+  "dangerZone": "危険ゾーン",
+  "manageHowYouSignInToYourAccount": "アカウントへのサインイン方法を管理",
+  "manageSessionsAndAccess": "セッションとアクセスを管理",
+  "permanentlyDeleteYourAccountAndData": "アカウントとデータを完全に削除",
+  "keepAccessoryPowerModeAwayDescription": "外出中でもアクセサリーに電力を供給します"
 }

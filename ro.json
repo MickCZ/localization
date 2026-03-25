@@ -2815,5 +2815,10 @@
   "licensesUsed": "Licențe utilizate",
   "addLicense": "Adaugă licență",
   "renewsDate": "Se reînnoiește la {date}",
-  "exportingTripsAndCosts": "Exportul călătoriilor și costurilor"
+  "exportingTripsAndCosts": "Exportul călătoriilor și costurilor",
+  "dangerZone": "Zonă periculoasă",
+  "manageHowYouSignInToYourAccount": "Gestionează modul în care te conectezi la contul tău",
+  "manageSessionsAndAccess": "Gestionează sesiunile și accesul",
+  "permanentlyDeleteYourAccountAndData": "Șterge permanent contul și datele tale",
+  "keepAccessoryPowerModeAwayDescription": "Furnizează alimentare accesoriilor când ești plecat"
 }

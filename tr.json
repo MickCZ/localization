@@ -2815,5 +2815,10 @@
   "licensesUsed": "Kullanılan lisanslar",
   "addLicense": "Lisans ekle",
   "renewsDate": "{date} tarihinde yenilenir",
-  "exportingTripsAndCosts": "Sürüşleri ve maliyetleri dışa aktarma"
+  "exportingTripsAndCosts": "Sürüşleri ve maliyetleri dışa aktarma",
+  "dangerZone": "Tehlikeli bölge",
+  "manageHowYouSignInToYourAccount": "Hesabınızda nasıl oturum açtığınızı yönetin",
+  "manageSessionsAndAccess": "Oturumları ve erişimi yönetin",
+  "permanentlyDeleteYourAccountAndData": "Hesabınızı ve verilerinizi kalıcı olarak silin",
+  "keepAccessoryPowerModeAwayDescription": "Uzakta olduğunuzda aksesuarlara güç sağlar"
 }

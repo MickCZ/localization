@@ -2815,5 +2815,10 @@
   "licensesUsed": "已使用许可证",
   "addLicense": "添加许可证",
   "renewsDate": "{date}续订",
-  "exportingTripsAndCosts": "导出行程和费用"
+  "exportingTripsAndCosts": "导出行程和费用",
+  "dangerZone": "危险区域",
+  "manageHowYouSignInToYourAccount": "管理您登录账户的方式",
+  "manageSessionsAndAccess": "管理会话和访问权限",
+  "permanentlyDeleteYourAccountAndData": "永久删除您的账户和数据",
+  "keepAccessoryPowerModeAwayDescription": "您离开时为附件供电"
 }

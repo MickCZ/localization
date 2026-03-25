@@ -2815,5 +2815,10 @@
   "licensesUsed": "Felhasznált licencek",
   "addLicense": "Licenc hozzáadása",
   "renewsDate": "Megújul ekkor: {date}",
-  "exportingTripsAndCosts": "Utak és költségek exportálása"
+  "exportingTripsAndCosts": "Utak és költségek exportálása",
+  "dangerZone": "Veszélyzóna",
+  "manageHowYouSignInToYourAccount": "Kezeld, hogyan jelentkezel be a fiókodba",
+  "manageSessionsAndAccess": "Munkamenetek és hozzáférés kezelése",
+  "permanentlyDeleteYourAccountAndData": "Fiókod és adataid végleges törlése",
+  "keepAccessoryPowerModeAwayDescription": "Áramot biztosít a kiegészítőknek, amikor távol van"
 }

@@ -2815,5 +2815,10 @@
   "licensesUsed": "Gebruikte licenties",
   "addLicense": "Licentie toevoegen",
   "renewsDate": "Wordt verlengd op {date}",
-  "exportingTripsAndCosts": "Export van ritten en kosten"
+  "exportingTripsAndCosts": "Export van ritten en kosten",
+  "dangerZone": "Gevarenzone",
+  "manageHowYouSignInToYourAccount": "Beheer hoe je inlogt op je account",
+  "manageSessionsAndAccess": "Beheer sessies en toegang",
+  "permanentlyDeleteYourAccountAndData": "Verwijder je account en gegevens permanent",
+  "keepAccessoryPowerModeAwayDescription": "Levert accessoirevoeding wanneer je weg bent"
 }
