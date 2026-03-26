@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Manage sessions and access",
   "permanentlyDeleteYourAccountAndData": "Permanently delete your account and data",
   "keepAccessoryPowerModeAwayDescription": "Provides accessory power when you're away",
-  "dueTitle": "Due"
+  "dueTitle": "Due",
+  "realWorldRangeBasisDescription": "Driving period used to calculate real-world range",
+  "appliesToThisDevice": "Applies to this device",
+  "appliesToYourAccount": "Applies to your account",
+  "units": "Units",
+  "showRangeAtTheTopOfTheHomeScreen": "Show range at the top of the home screen"
 }

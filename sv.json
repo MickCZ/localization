@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Hantera sessioner och åtkomst",
   "permanentlyDeleteYourAccountAndData": "Radera ditt konto och dina data permanent",
   "keepAccessoryPowerModeAwayDescription": "Ger tillbehör ström när du är borta",
-  "dueTitle": "Förfaller"
+  "dueTitle": "Förfaller",
+  "realWorldRangeBasisDescription": "Körperiod som används för att beräkna verklig räckvidd",
+  "appliesToThisDevice": "Gäller den här enheten",
+  "appliesToYourAccount": "Gäller ditt konto",
+  "units": "Enheter",
+  "showRangeAtTheTopOfTheHomeScreen": "Visa räckvidd högst upp på hemskärmen"
 }

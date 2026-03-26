@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Administrer økter og tilgang",
   "permanentlyDeleteYourAccountAndData": "Slett kontoen og dataene dine permanent",
   "keepAccessoryPowerModeAwayDescription": "Gir tilbehør strøm når du er borte",
-  "dueTitle": "Forfaller"
+  "dueTitle": "Forfaller",
+  "realWorldRangeBasisDescription": "Kjøreperiode brukt til å beregne reell rekkevidde",
+  "appliesToThisDevice": "Gjelder for denne enheten",
+  "appliesToYourAccount": "Gjelder kontoen din",
+  "units": "Enheter",
+  "showRangeAtTheTopOfTheHomeScreen": "Vis rekkevidde øverst på hjemskjermen"
 }

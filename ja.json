@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "セッションとアクセスを管理",
   "permanentlyDeleteYourAccountAndData": "アカウントとデータを完全に削除",
   "keepAccessoryPowerModeAwayDescription": "外出中でもアクセサリーに電力を供給します",
-  "dueTitle": "期日"
+  "dueTitle": "期日",
+  "realWorldRangeBasisDescription": "実走行距離の計算に使用する走行期間",
+  "appliesToThisDevice": "このデバイスに適用されます",
+  "appliesToYourAccount": "あなたのアカウントに適用されます",
+  "units": "単位",
+  "showRangeAtTheTopOfTheHomeScreen": "ホーム画面の上部に航続距離を表示"
 }

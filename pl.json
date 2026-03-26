@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Zarządzaj sesjami i dostępem",
   "permanentlyDeleteYourAccountAndData": "Trwale usuń swoje konto i dane",
   "keepAccessoryPowerModeAwayDescription": "Zapewnia zasilanie akcesoriów, gdy jesteś poza pojazdem",
-  "dueTitle": "Termin"
+  "dueTitle": "Termin",
+  "realWorldRangeBasisDescription": "Okres jazdy używany do obliczania rzeczywistego zasięgu",
+  "appliesToThisDevice": "Dotyczy tego urządzenia",
+  "appliesToYourAccount": "Dotyczy Twojego konta",
+  "units": "Jednostki",
+  "showRangeAtTheTopOfTheHomeScreen": "Pokazuj zasięg u góry ekranu głównego"
 }

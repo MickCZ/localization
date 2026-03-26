@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Spravujte relace a přístup",
   "permanentlyDeleteYourAccountAndData": "Trvale smažte svůj účet a data",
   "keepAccessoryPowerModeAwayDescription": "Poskytuje napájení příslušenství, když jste pryč",
-  "dueTitle": "Nutné"
+  "dueTitle": "Nutné",
+  "realWorldRangeBasisDescription": "Období jízdy použité k výpočtu reálného dojezdu",
+  "appliesToThisDevice": "Platí pro toto zařízení",
+  "appliesToYourAccount": "Platí pro váš účet",
+  "units": "Jednotky",
+  "showRangeAtTheTopOfTheHomeScreen": "Zobrazit dojezd v horní části domovské obrazovky"
 }

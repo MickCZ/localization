@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Oturumları ve erişimi yönetin",
   "permanentlyDeleteYourAccountAndData": "Hesabınızı ve verilerinizi kalıcı olarak silin",
   "keepAccessoryPowerModeAwayDescription": "Uzakta olduğunuzda aksesuarlara güç sağlar",
-  "dueTitle": "Gerekli"
+  "dueTitle": "Gerekli",
+  "realWorldRangeBasisDescription": "Gerçek menzili hesaplamak için kullanılan sürüş dönemi",
+  "appliesToThisDevice": "Bu cihaz için geçerlidir",
+  "appliesToYourAccount": "Hesabınız için geçerlidir",
+  "units": "Birimler",
+  "showRangeAtTheTopOfTheHomeScreen": "Menzili ana ekranın üst kısmında göster"
 }

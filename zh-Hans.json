@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "管理会话和访问权限",
   "permanentlyDeleteYourAccountAndData": "永久删除您的账户和数据",
   "keepAccessoryPowerModeAwayDescription": "您离开时为附件供电",
-  "dueTitle": "到期"
+  "dueTitle": "到期",
+  "realWorldRangeBasisDescription": "用于计算实际续航里程的驾驶周期",
+  "appliesToThisDevice": "适用于此设备",
+  "appliesToYourAccount": "适用于您的账户",
+  "units": "单位",
+  "showRangeAtTheTopOfTheHomeScreen": "在主屏幕顶部显示续航里程"
 }

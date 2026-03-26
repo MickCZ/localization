@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Munkamenetek és hozzáférés kezelése",
   "permanentlyDeleteYourAccountAndData": "Fiókod és adataid végleges törlése",
   "keepAccessoryPowerModeAwayDescription": "Áramot biztosít a kiegészítőknek, amikor távol van",
-  "dueTitle": "Esedékes"
+  "dueTitle": "Esedékes",
+  "realWorldRangeBasisDescription": "A valós hatótáv kiszámításához használt vezetési időszak",
+  "appliesToThisDevice": "Erre az eszközre vonatkozik",
+  "appliesToYourAccount": "Fiókodra vonatkozik",
+  "units": "Mértékegységek",
+  "showRangeAtTheTopOfTheHomeScreen": "Hatótáv megjelenítése a kezdőképernyő tetején"
 }

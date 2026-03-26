@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Verwalte Sitzungen und Zugriffe",
   "permanentlyDeleteYourAccountAndData": "Lösche dein Konto und deine Daten dauerhaft",
   "keepAccessoryPowerModeAwayDescription": "Versorgt Zubehör mit Strom, wenn du weg bist",
-  "dueTitle": "Fällig"
+  "dueTitle": "Fällig",
+  "realWorldRangeBasisDescription": "Fahrzeitraum, der zur Berechnung der realen Reichweite verwendet wird",
+  "appliesToThisDevice": "Gilt für dieses Gerät",
+  "appliesToYourAccount": "Gilt für dein Konto",
+  "units": "Einheiten",
+  "showRangeAtTheTopOfTheHomeScreen": "Reichweite oben auf dem Startbildschirm anzeigen"
 }

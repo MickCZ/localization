@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Gestionează sesiunile și accesul",
   "permanentlyDeleteYourAccountAndData": "Șterge permanent contul și datele tale",
   "keepAccessoryPowerModeAwayDescription": "Furnizează alimentare accesoriilor când ești plecat",
-  "dueTitle": "Scadent"
+  "dueTitle": "Scadent",
+  "realWorldRangeBasisDescription": "Perioada de condus folosită pentru a calcula autonomia reală",
+  "appliesToThisDevice": "Se aplică acestui dispozitiv",
+  "appliesToYourAccount": "Se aplică contului tău",
+  "units": "Unități",
+  "showRangeAtTheTopOfTheHomeScreen": "Afișează autonomia în partea de sus a ecranului principal"
 }

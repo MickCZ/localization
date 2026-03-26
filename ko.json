@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "세션 및 접근 권한을 관리하세요",
   "permanentlyDeleteYourAccountAndData": "계정과 데이터를 영구적으로 삭제하세요",
   "keepAccessoryPowerModeAwayDescription": "자리를 비워도 액세서리에 전원을 공급합니다.",
-  "dueTitle": "기한"
+  "dueTitle": "기한",
+  "realWorldRangeBasisDescription": "실주행 가능 거리를 계산하는 데 사용하는 주행 기간",
+  "appliesToThisDevice": "이 기기에 적용됩니다",
+  "appliesToYourAccount": "계정에 적용됩니다",
+  "units": "단위",
+  "showRangeAtTheTopOfTheHomeScreen": "홈 화면 상단에 주행 가능 거리 표시"
 }

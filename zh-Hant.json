@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "管理工作階段和存取權限",
   "permanentlyDeleteYourAccountAndData": "永久刪除您的帳戶和資料",
   "keepAccessoryPowerModeAwayDescription": "您離開時為輔助設備供電",
-  "dueTitle": "到期"
+  "dueTitle": "到期",
+  "realWorldRangeBasisDescription": "用於計算實際續航里程的駕駛期間",
+  "appliesToThisDevice": "適用於此裝置",
+  "appliesToYourAccount": "適用於您的帳戶",
+  "units": "單位",
+  "showRangeAtTheTopOfTheHomeScreen": "在主畫面頂部顯示續航里程"
 }

@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Gérez les sessions et les accès",
   "permanentlyDeleteYourAccountAndData": "Supprimez définitivement votre compte et vos données",
   "keepAccessoryPowerModeAwayDescription": "Alimente les accessoires lorsque vous êtes absent",
-  "dueTitle": "À faire"
+  "dueTitle": "À faire",
+  "realWorldRangeBasisDescription": "Période de conduite utilisée pour calculer l'autonomie réelle",
+  "appliesToThisDevice": "S'applique à cet appareil",
+  "appliesToYourAccount": "S'applique à votre compte",
+  "units": "Unités",
+  "showRangeAtTheTopOfTheHomeScreen": "Afficher l'autonomie en haut de l'écran d'accueil"
 }

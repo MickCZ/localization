@@ -2820,5 +2820,10 @@
   "manageSessionsAndAccess": "Beheer sessies en toegang",
   "permanentlyDeleteYourAccountAndData": "Verwijder je account en gegevens permanent",
   "keepAccessoryPowerModeAwayDescription": "Levert accessoirevoeding wanneer je weg bent",
-  "dueTitle": "Nodig"
+  "dueTitle": "Nodig",
+  "realWorldRangeBasisDescription": "Rijperiode die wordt gebruikt om de werkelijke actieradius te berekenen",
+  "appliesToThisDevice": "Geldt voor dit apparaat",
+  "appliesToYourAccount": "Geldt voor je account",
+  "units": "Eenheden",
+  "showRangeAtTheTopOfTheHomeScreen": "Toon actieradius bovenaan het startscherm"
 }
