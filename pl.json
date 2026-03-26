@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Gdy ładowarka nie dostarcza zasilania",
   "reducedPower": "Ograniczenie mocy",
   "whenChargersSuddenlyReducePower": "Gdy ładowarka nagle zmniejszy moc",
-  "dueNowTitle": "Termin minął",
   "neverDoneThisMaintenance": "Nigdy nie wykonywano tej czynności konserwacyjnej?",
   "useTheDateYouAcquiredTheVehicle": "Użyj daty nabycia pojazdu",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Zarządzaj sposobem logowania do swojego konta",
   "manageSessionsAndAccess": "Zarządzaj sesjami i dostępem",
   "permanentlyDeleteYourAccountAndData": "Trwale usuń swoje konto i dane",
-  "keepAccessoryPowerModeAwayDescription": "Zapewnia zasilanie akcesoriów, gdy jesteś poza pojazdem"
+  "keepAccessoryPowerModeAwayDescription": "Zapewnia zasilanie akcesoriów, gdy jesteś poza pojazdem",
+  "dueTitle": "Termin"
 }

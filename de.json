@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Wenn Ladegeräte keinen Strom liefern",
   "reducedPower": "Geringere Leistung",
   "whenChargersSuddenlyReducePower": "Wenn Ladegeräte plötzlich die Stromzufuhr reduzieren",
-  "dueNowTitle": "Jetzt fällig",
   "neverDoneThisMaintenance": "Diese Wartung noch nie durchgeführt?",
   "useTheDateYouAcquiredTheVehicle": "Verwende das Datum, an dem du das Fahrzeug erworben hast",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Verwalte, wie du dich bei deinem Konto anmeldest",
   "manageSessionsAndAccess": "Verwalte Sitzungen und Zugriffe",
   "permanentlyDeleteYourAccountAndData": "Lösche dein Konto und deine Daten dauerhaft",
-  "keepAccessoryPowerModeAwayDescription": "Versorgt Zubehör mit Strom, wenn du weg bist"
+  "keepAccessoryPowerModeAwayDescription": "Versorgt Zubehör mit Strom, wenn du weg bist",
+  "dueTitle": "Fällig"
 }

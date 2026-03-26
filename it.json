@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Quando i caricabatterie non forniscono alimentazione",
   "reducedPower": "Alimentazione ridotta",
   "whenChargersSuddenlyReducePower": "Quando i caricabatterie riducono improvvisamente l'alimentazione",
-  "dueNowTitle": "Da fare ora",
   "neverDoneThisMaintenance": "Questa manutenzione non è mai stata effettuata?",
   "useTheDateYouAcquiredTheVehicle": "Utilizza la data di acquisto del veicolo",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Gestisci come accedi al tuo account",
   "manageSessionsAndAccess": "Gestisci sessioni e accessi",
   "permanentlyDeleteYourAccountAndData": "Elimina definitivamente il tuo account e i tuoi dati",
-  "keepAccessoryPowerModeAwayDescription": "Fornisce alimentazione agli accessori quando sei via"
+  "keepAccessoryPowerModeAwayDescription": "Fornisce alimentazione agli accessori quando sei via",
+  "dueTitle": "Da fare"
 }

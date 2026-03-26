@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "När laddare inte levererar ström",
   "reducedPower": "Reducerad effekt",
   "whenChargersSuddenlyReducePower": "När laddare plötsligt reducerar effekten",
-  "dueNowTitle": "Förfaller nu",
   "neverDoneThisMaintenance": "Aldrig gjort detta underhåll?",
   "useTheDateYouAcquiredTheVehicle": "Använd datumet då du skaffade fordonet",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Hantera hur du loggar in på ditt konto",
   "manageSessionsAndAccess": "Hantera sessioner och åtkomst",
   "permanentlyDeleteYourAccountAndData": "Radera ditt konto och dina data permanent",
-  "keepAccessoryPowerModeAwayDescription": "Ger tillbehör ström när du är borta"
+  "keepAccessoryPowerModeAwayDescription": "Ger tillbehör ström när du är borta",
+  "dueTitle": "Förfaller"
 }

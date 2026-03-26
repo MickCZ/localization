@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "充電器が電力を供給していない場合",
   "reducedPower": "電力低下",
   "whenChargersSuddenlyReducePower": "充電器が突然電力を削減した場合",
-  "dueNowTitle": "期日",
   "neverDoneThisMaintenance": "このメンテナンスは一度も行っていませんか？",
   "useTheDateYouAcquiredTheVehicle": "車両を取得した日付を使用してください",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "アカウントへのサインイン方法を管理",
   "manageSessionsAndAccess": "セッションとアクセスを管理",
   "permanentlyDeleteYourAccountAndData": "アカウントとデータを完全に削除",
-  "keepAccessoryPowerModeAwayDescription": "外出中でもアクセサリーに電力を供給します"
+  "keepAccessoryPowerModeAwayDescription": "外出中でもアクセサリーに電力を供給します",
+  "dueTitle": "期日"
 }

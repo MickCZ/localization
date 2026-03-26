@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Når ladere ikke gir strøm",
   "reducedPower": "Redusert strøm",
   "whenChargersSuddenlyReducePower": "Når ladere plutselig reduserer kraften",
-  "dueNowTitle": "Forfaller nå",
   "neverDoneThisMaintenance": "Aldri gjort dette vedlikeholdsarbeidet?",
   "useTheDateYouAcquiredTheVehicle": "Bruk datoen da du kjøpte kjøretøyet",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Administrer hvordan du logger inn på kontoen din",
   "manageSessionsAndAccess": "Administrer økter og tilgang",
   "permanentlyDeleteYourAccountAndData": "Slett kontoen og dataene dine permanent",
-  "keepAccessoryPowerModeAwayDescription": "Gir tilbehør strøm når du er borte"
+  "keepAccessoryPowerModeAwayDescription": "Gir tilbehør strøm når du er borte",
+  "dueTitle": "Forfaller"
 }

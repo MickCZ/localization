@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "When chargers aren't providing power",
   "reducedPower": "Reduced power",
   "whenChargersSuddenlyReducePower": "When chargers suddenly reduce power",
-  "dueNowTitle": "Due Now",
   "neverDoneThisMaintenance": "Never done this maintenance?",
   "useTheDateYouAcquiredTheVehicle": "Use the date you acquired the vehicle",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Manage how you sign in to your account",
   "manageSessionsAndAccess": "Manage sessions and access",
   "permanentlyDeleteYourAccountAndData": "Permanently delete your account and data",
-  "keepAccessoryPowerModeAwayDescription": "Provides accessory power when you're away"
+  "keepAccessoryPowerModeAwayDescription": "Provides accessory power when you're away",
+  "dueTitle": "Due"
 }

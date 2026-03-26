@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Când încarcarea nu furnizează putere",
   "reducedPower": "Putere redusă",
   "whenChargersSuddenlyReducePower": "Când încarcatorul reduce brusc puterea",
-  "dueNowTitle": "Scadent acum",
   "neverDoneThisMaintenance": "Nu ați efectuat niciodată acestă întreținere?",
   "useTheDateYouAcquiredTheVehicle": "Utilizați data la care ați achiziționat autovehiculul",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Gestionează modul în care te conectezi la contul tău",
   "manageSessionsAndAccess": "Gestionează sesiunile și accesul",
   "permanentlyDeleteYourAccountAndData": "Șterge permanent contul și datele tale",
-  "keepAccessoryPowerModeAwayDescription": "Furnizează alimentare accesoriilor când ești plecat"
+  "keepAccessoryPowerModeAwayDescription": "Furnizează alimentare accesoriilor când ești plecat",
+  "dueTitle": "Scadent"
 }

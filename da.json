@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Når oplader ikke leverer strøm",
   "reducedPower": "Reduceret strøm",
   "whenChargersSuddenlyReducePower": "Når oplader pludselig reducerer strømmen",
-  "dueNowTitle": "Forfalder nu",
   "neverDoneThisMaintenance": "Aldrig udført denne vedligeholdelse?",
   "useTheDateYouAcquiredTheVehicle": "Brug datoen, hvor du erhvervede køretøjet",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Administrer, hvordan du logger ind på din konto",
   "manageSessionsAndAccess": "Administrer sessioner og adgang",
   "permanentlyDeleteYourAccountAndData": "Slet din konto og dine data permanent",
-  "keepAccessoryPowerModeAwayDescription": "Giver strøm til tilbehør, når du er væk"
+  "keepAccessoryPowerModeAwayDescription": "Giver strøm til tilbehør, når du er væk",
+  "dueTitle": "Forfalder"
 }

@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Когда зарядные устройства не обеспечивают питание",
   "reducedPower": "Снижение мощности",
   "whenChargersSuddenlyReducePower": "Когда зарядные устройства внезапно снижают мощность",
-  "dueNowTitle": "Требуется сейчас",
   "neverDoneThisMaintenance": "Никогда не делали это техническое обслуживание?",
   "useTheDateYouAcquiredTheVehicle": "Используйте дату приобретения автомобиля",
   "energyKwh": "{energy} кВт·ч",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Управляйте способами входа в вашу учетную запись",
   "manageSessionsAndAccess": "Управляйте сеансами и доступом",
   "permanentlyDeleteYourAccountAndData": "Безвозвратно удалите свою учетную запись и данные",
-  "keepAccessoryPowerModeAwayDescription": "Подает питание на аксессуары, когда вас нет рядом"
+  "keepAccessoryPowerModeAwayDescription": "Подает питание на аксессуары, когда вас нет рядом",
+  "dueTitle": "Требуется"
 }

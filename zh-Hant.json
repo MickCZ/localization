@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "當充電器未供電時",
   "reducedPower": "電力降低",
   "whenChargersSuddenlyReducePower": "當充電器突然降低電力時",
-  "dueNowTitle": "現已到期",
   "neverDoneThisMaintenance": "從未進行過這項保養？",
   "useTheDateYouAcquiredTheVehicle": "使用您取得車輛的日期",
   "energyKwh": "{energy} 千瓦時",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "管理您登入帳戶的方式",
   "manageSessionsAndAccess": "管理工作階段和存取權限",
   "permanentlyDeleteYourAccountAndData": "永久刪除您的帳戶和資料",
-  "keepAccessoryPowerModeAwayDescription": "您離開時為輔助設備供電"
+  "keepAccessoryPowerModeAwayDescription": "您離開時為輔助設備供電",
+  "dueTitle": "到期"
 }

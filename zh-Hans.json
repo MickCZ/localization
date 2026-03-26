@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "充电器未供电时",
   "reducedPower": "电源减小",
   "whenChargersSuddenlyReducePower": "充电器突然减小电源时",
-  "dueNowTitle": "现在已到期",
   "neverDoneThisMaintenance": "从未进行过此项维护？",
   "useTheDateYouAcquiredTheVehicle": "使用您购得车辆的日期",
   "energyKwh": "{energy} 千瓦时",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "管理您登录账户的方式",
   "manageSessionsAndAccess": "管理会话和访问权限",
   "permanentlyDeleteYourAccountAndData": "永久删除您的账户和数据",
-  "keepAccessoryPowerModeAwayDescription": "您离开时为附件供电"
+  "keepAccessoryPowerModeAwayDescription": "您离开时为附件供电",
+  "dueTitle": "到期"
 }

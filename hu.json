@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Amikor a töltők nem adnak áramot",
   "reducedPower": "Csökkentett teljesítmény",
   "whenChargersSuddenlyReducePower": "Amikor a töltők hirtelen csökkentik az energiát",
-  "dueNowTitle": "Most esedékes",
   "neverDoneThisMaintenance": "Soha nem végezte el ezt a karbantartást?",
   "useTheDateYouAcquiredTheVehicle": "Használja a jármű megvásárlásának dátumát",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Kezeld, hogyan jelentkezel be a fiókodba",
   "manageSessionsAndAccess": "Munkamenetek és hozzáférés kezelése",
   "permanentlyDeleteYourAccountAndData": "Fiókod és adataid végleges törlése",
-  "keepAccessoryPowerModeAwayDescription": "Áramot biztosít a kiegészítőknek, amikor távol van"
+  "keepAccessoryPowerModeAwayDescription": "Áramot biztosít a kiegészítőknek, amikor távol van",
+  "dueTitle": "Esedékes"
 }

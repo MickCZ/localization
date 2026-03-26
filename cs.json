@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "Pokud nabíječky nedodávají proud",
   "reducedPower": "Snížený výkon",
   "whenChargersSuddenlyReducePower": "Při náhlém snížení výkonu nabíječek",
-  "dueNowTitle": "Platí ihned",
   "neverDoneThisMaintenance": "Tuto údržbu jste nikdy neprováděli?",
   "useTheDateYouAcquiredTheVehicle": "Použijte datum, kdy jste vozidlo získali",
   "energyKwh": "{energy} kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "Spravujte, jak se přihlašujete ke svému účtu",
   "manageSessionsAndAccess": "Spravujte relace a přístup",
   "permanentlyDeleteYourAccountAndData": "Trvale smažte svůj účet a data",
-  "keepAccessoryPowerModeAwayDescription": "Poskytuje napájení příslušenství, když jste pryč"
+  "keepAccessoryPowerModeAwayDescription": "Poskytuje napájení příslušenství, když jste pryč",
+  "dueTitle": "Nutné"
 }

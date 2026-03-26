@@ -626,7 +626,6 @@
   "whenChargersArentProvidingPower": "충전기가 전원을 공급하지 않을 때",
   "reducedPower": "전력 감소",
   "whenChargersSuddenlyReducePower": "충전기가 갑자기 전력을 감소시킬 때",
-  "dueNowTitle": "지금 만료",
   "neverDoneThisMaintenance": "이 유지 관리를 한 번도 하지 않으셨습니까?",
   "useTheDateYouAcquiredTheVehicle": "차량을 구매한 날짜를 사용하세요.",
   "energyKwh": "{energy}kWh",
@@ -2820,5 +2819,6 @@
   "manageHowYouSignInToYourAccount": "계정에 로그인하는 방법을 관리하세요",
   "manageSessionsAndAccess": "세션 및 접근 권한을 관리하세요",
   "permanentlyDeleteYourAccountAndData": "계정과 데이터를 영구적으로 삭제하세요",
-  "keepAccessoryPowerModeAwayDescription": "자리를 비워도 액세서리에 전원을 공급합니다."
+  "keepAccessoryPowerModeAwayDescription": "자리를 비워도 액세서리에 전원을 공급합니다.",
+  "dueTitle": "기한"
 }
