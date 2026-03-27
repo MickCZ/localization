@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Geldt voor dit apparaat",
   "appliesToYourAccount": "Geldt voor je account",
   "units": "Eenheden",
-  "showRangeAtTheTopOfTheHomeScreen": "Toon actieradius bovenaan het startscherm"
+  "showRangeAtTheTopOfTheHomeScreen": "Toon actieradius bovenaan het startscherm",
+  "amountAnnualSavingsFound": "Gevonden jaarlijkse besparing: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Bekijk hieronder onze aanbevelingen om te zien hoe je geld kunt besparen"
 }

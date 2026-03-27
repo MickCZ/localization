@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "이 기기에 적용됩니다",
   "appliesToYourAccount": "계정에 적용됩니다",
   "units": "단위",
-  "showRangeAtTheTopOfTheHomeScreen": "홈 화면 상단에 주행 가능 거리 표시"
+  "showRangeAtTheTopOfTheHomeScreen": "홈 화면 상단에 주행 가능 거리 표시",
+  "amountAnnualSavingsFound": "발견된 연간 절감액: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "아래 권장 사항을 검토하여 비용을 절약할 수 있는 방법을 확인하세요"
 }

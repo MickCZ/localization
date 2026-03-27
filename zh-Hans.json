@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "适用于此设备",
   "appliesToYourAccount": "适用于您的账户",
   "units": "单位",
-  "showRangeAtTheTopOfTheHomeScreen": "在主屏幕顶部显示续航里程"
+  "showRangeAtTheTopOfTheHomeScreen": "在主屏幕顶部显示续航里程",
+  "amountAnnualSavingsFound": "发现的年度节省额：{amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "查看下面的建议，了解如何节省开支"
 }

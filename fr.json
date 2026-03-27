@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "S'applique à cet appareil",
   "appliesToYourAccount": "S'applique à votre compte",
   "units": "Unités",
-  "showRangeAtTheTopOfTheHomeScreen": "Afficher l'autonomie en haut de l'écran d'accueil"
+  "showRangeAtTheTopOfTheHomeScreen": "Afficher l'autonomie en haut de l'écran d'accueil",
+  "amountAnnualSavingsFound": "Économies annuelles trouvées : {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Consultez nos recommandations ci-dessous pour voir comment vous pouvez économiser de l'argent"
 }

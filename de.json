@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Gilt für dieses Gerät",
   "appliesToYourAccount": "Gilt für dein Konto",
   "units": "Einheiten",
-  "showRangeAtTheTopOfTheHomeScreen": "Reichweite oben auf dem Startbildschirm anzeigen"
+  "showRangeAtTheTopOfTheHomeScreen": "Reichweite oben auf dem Startbildschirm anzeigen",
+  "amountAnnualSavingsFound": "Gefundene jährliche Einsparungen: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Sieh dir unten unsere Empfehlungen an, um zu erfahren, wie du Geld sparen kannst"
 }

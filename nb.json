@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Gjelder for denne enheten",
   "appliesToYourAccount": "Gjelder kontoen din",
   "units": "Enheter",
-  "showRangeAtTheTopOfTheHomeScreen": "Vis rekkevidde øverst på hjemskjermen"
+  "showRangeAtTheTopOfTheHomeScreen": "Vis rekkevidde øverst på hjemskjermen",
+  "amountAnnualSavingsFound": "Funnet årlig besparelse: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Se anbefalingene våre nedenfor for å se hvordan du kan spare penger"
 }

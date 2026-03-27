@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Platí pro toto zařízení",
   "appliesToYourAccount": "Platí pro váš účet",
   "units": "Jednotky",
-  "showRangeAtTheTopOfTheHomeScreen": "Zobrazit dojezd v horní části domovské obrazovky"
+  "showRangeAtTheTopOfTheHomeScreen": "Zobrazit dojezd v horní části domovské obrazovky",
+  "amountAnnualSavingsFound": "Nalezené roční úspory: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Projděte si naše doporučení níže a zjistěte, jak můžete ušetřit peníze"
 }

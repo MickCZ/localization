@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Se aplică acestui dispozitiv",
   "appliesToYourAccount": "Se aplică contului tău",
   "units": "Unități",
-  "showRangeAtTheTopOfTheHomeScreen": "Afișează autonomia în partea de sus a ecranului principal"
+  "showRangeAtTheTopOfTheHomeScreen": "Afișează autonomia în partea de sus a ecranului principal",
+  "amountAnnualSavingsFound": "Economii anuale găsite: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Consultă recomandările noastre de mai jos pentru a vedea cum poți economisi bani"
 }

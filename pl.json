@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Dotyczy tego urządzenia",
   "appliesToYourAccount": "Dotyczy Twojego konta",
   "units": "Jednostki",
-  "showRangeAtTheTopOfTheHomeScreen": "Pokazuj zasięg u góry ekranu głównego"
+  "showRangeAtTheTopOfTheHomeScreen": "Pokazuj zasięg u góry ekranu głównego",
+  "amountAnnualSavingsFound": "Znalezione roczne oszczędności: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Przejrzyj nasze zalecenia poniżej, aby zobaczyć, jak możesz zaoszczędzić pieniądze"
 }

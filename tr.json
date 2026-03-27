@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Bu cihaz için geçerlidir",
   "appliesToYourAccount": "Hesabınız için geçerlidir",
   "units": "Birimler",
-  "showRangeAtTheTopOfTheHomeScreen": "Menzili ana ekranın üst kısmında göster"
+  "showRangeAtTheTopOfTheHomeScreen": "Menzili ana ekranın üst kısmında göster",
+  "amountAnnualSavingsFound": "Bulunan yıllık tasarruf: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Nasıl tasarruf edebileceğinizi görmek için aşağıdaki önerilerimizi inceleyin"
 }

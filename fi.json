@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Koskee tätä laitetta",
   "appliesToYourAccount": "Koskee tiliäsi",
   "units": "Yksiköt",
-  "showRangeAtTheTopOfTheHomeScreen": "Näytä toimintamatka aloitusnäytön yläosassa"
+  "showRangeAtTheTopOfTheHomeScreen": "Näytä toimintamatka aloitusnäytön yläosassa",
+  "amountAnnualSavingsFound": "Löydetyt vuosisäästöt: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Tutustu alla oleviin suosituksiimme nähdäksesi, miten voit säästää rahaa"
 }

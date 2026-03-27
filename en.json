@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Applies to this device",
   "appliesToYourAccount": "Applies to your account",
   "units": "Units",
-  "showRangeAtTheTopOfTheHomeScreen": "Show range at the top of the home screen"
+  "showRangeAtTheTopOfTheHomeScreen": "Show range at the top of the home screen",
+  "amountAnnualSavingsFound": "{amount} annual savings found",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Review our recommendations below to see how you can save money"
 }

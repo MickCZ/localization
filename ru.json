@@ -2825,5 +2825,7 @@
   "appliesToThisDevice": "Применяется к этому устройству",
   "appliesToYourAccount": "Применяется к вашей учетной записи",
   "units": "Единицы измерения",
-  "showRangeAtTheTopOfTheHomeScreen": "Показывать запас хода в верхней части главного экрана"
+  "showRangeAtTheTopOfTheHomeScreen": "Показывать запас хода в верхней части главного экрана",
+  "amountAnnualSavingsFound": "Найдено ежегодной экономии: {amount}",
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Ознакомьтесь с нашими рекомендациями ниже, чтобы узнать, как вы можете сэкономить деньги"
 }
