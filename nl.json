@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "De store heeft een probleem met het verzoek.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "De machtiging 'Voertuiglaadbeheer' is vereist voor Supercharger-kosten en oplaadsystemen. Je kunt dit oplossen via Instellingen > Connectiviteit.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "De machtiging 'Voertuigopdrachten' is vereist voor bedieningselementen. Je kunt dit oplossen via Instellingen > Connectiviteit.",
-  "theVehicleInformationPermissionIsRequired": "De machtiging 'Voertuiginformatie' is vereist.",
+  "theVehicleInformationPermissionIsRequired": "De machtiging 'Voertuiginformatie' is vereist",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "De machtiging 'Voertuiginformatie' is vereist. Verwijder de machtigingen van Tessie en maak opnieuw verbinding met je Tesla-account.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "De machtiging 'Voertuiginformatie' is vereist. Je kunt dit oplossen via Instellingen > Connectiviteit.",
   "tires": "Banden",

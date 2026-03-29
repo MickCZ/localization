@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Butikken havde et problem med anmodningen.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Tilladelsen til administration af køretøjsopladning er påkrævet for omkostninger og opladningsstyring ved Tesla Supercharger opladning. Du kan rette det under Indstillinger > Tilslutning.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Tilladelsen til køretøjskontrol er påkrævet for kontrolelementer. Du kan rette det under Indstillinger > Tilslutning.",
-  "theVehicleInformationPermissionIsRequired": "Tilladelsen til køretøjsoplysninger er påkrævet.",
+  "theVehicleInformationPermissionIsRequired": "Tilladelsen til køretøjsoplysninger er påkrævet",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Tilladelsen til køretøjsoplysninger er påkrævet. Fjern Tessies tilladelser, og tilslut din Tesla-konto igen.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Tilladelsen til køretøjsoplysninger er påkrævet. Du kan rette det under Indstillinger > Tilslutning.",
   "tires": "Dæk",

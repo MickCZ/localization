@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "商店在處理請求時發生問題。",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "查看超級充電費用和充電控制項需要「車輛充電管理」權限。您可以在「設定」>「連線」中修正此問題。",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "使用控制項需要「車輛指令」權限。您可以在「設定」>「連線」中修正此問題。",
-  "theVehicleInformationPermissionIsRequired": "需要「車輛資訊」權限。",
+  "theVehicleInformationPermissionIsRequired": "需要「車輛資訊」權限",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "需要「車輛資訊」權限。請移除 Tessie 的權限，然後重新連線您的 Tesla 帳戶。",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "需要「車輛資訊」權限。您可以在「設定」>「連線」中修正此問題。",
   "tires": "輪胎",

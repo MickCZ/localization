@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "요청에 문제가 있습니다.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "슈퍼차징 비용과 충전 제어에는 Vehicle Charging Management 권한이 필요합니다. 이 기능은 설정 > 연결에서 설정할 수 있습니다.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "제어에는 Vehicle Commands 권한이 필요합니다. 이 기능은 설정 > 연결에서 설정할 수 있습니다.",
-  "theVehicleInformationPermissionIsRequired": "Vehicle Information 권한이 필요합니다.",
+  "theVehicleInformationPermissionIsRequired": "Vehicle Information 권한이 필요합니다",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Vehicle Information 권한이 필요합니다. Tessie 권한을 제거하고 Tesla 계정을 다시 연결하세요.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Vehicle Information 권한이 필요합니다. 이 기능은 설정 > 연결에서 설정할 수 있습니다.",
   "tires": "타이어",

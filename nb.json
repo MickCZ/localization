@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Butikken hadde et problem med forespørselen.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Vehicle Charging Management-tillatelsen kreves for Supercharging-kostnader og ladekontroller. Du kan fikse dette under Innstillinger > Tilkobling.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Vehicle Commands-tillatelsen kreves for kontroller. Du kan fikse dette under Innstillinger > Tilkobling.",
-  "theVehicleInformationPermissionIsRequired": "Vehicle Information-tillatelsen kreves.",
+  "theVehicleInformationPermissionIsRequired": "Vehicle Information-tillatelsen kreves",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Vehicle Information-tillatelsen kreves. Fjern Tessies tillatelser og koble til Tesla-kontoen din på nytt.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Vehicle Information-tillatelsen kreves. Du kan fikse dette under Innstillinger > Tilkobling.",
   "tires": "Dekk",

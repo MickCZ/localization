@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "В магазине возникла проблема с запросом.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Для Supercharging Costs и Controls Charging требуется разрешение на управление зарядкой транспортного средства. Вы можете исправить это в разделе «Настройки» > «Подключение».",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Для элементов управления требуется разрешение на команды транспортного средства. Вы можете исправить это в разделе «Настройки» > «Подключение».",
-  "theVehicleInformationPermissionIsRequired": "Требуется разрешение на информацию о транспортном средстве.",
+  "theVehicleInformationPermissionIsRequired": "Требуется разрешение на информацию о транспортном средстве",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Требуется разрешение на информацию о транспортном средстве. Удалите разрешения Tessie и повторно подключите свою учетную запись Tesla.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Требуется разрешение на информацию о транспортном средстве. Вы можете исправить это в разделе «Настройки» > «Подключение».",
   "tires": "Шины",

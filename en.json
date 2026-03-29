@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "The store had a problem with the request.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "The Vehicle Charging Management permission is required for Supercharging costs and charging controls. You can fix this under Settings > Connectivity.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "The Vehicle Commands permission is required for controls. You can fix this under Settings > Connectivity.",
-  "theVehicleInformationPermissionIsRequired": "The Vehicle Information permission is required.",
+  "theVehicleInformationPermissionIsRequired": "The Vehicle Information permission is required",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "The Vehicle Information permission is required. Remove Tessie's permissions and reconnect your Tesla account.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "The Vehicle Information permission is required. You can fix this under Settings > Connectivity.",
   "tires": "Tires",

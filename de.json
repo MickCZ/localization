@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Der Store hatte ein Problem mit der Anfrage.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Die Berechtigung zur Steuerung des Ladens des Fahrzeugs ist für die Kosten der Supercharger und die Steuerung des Aufladens erforderlich. Du kannst dies unter Einstellungen > Konnektivität beheben.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Die Berechtigung zur Steuerung des Fahrzeugs ist für die Steuerung erforderlich. Du kannst dies unter Einstellungen > Konnektivität beheben.",
-  "theVehicleInformationPermissionIsRequired": "Die Berechtigung für Fahrzeuginformationen ist erforderlich.",
+  "theVehicleInformationPermissionIsRequired": "Die Berechtigung für Fahrzeuginformationen ist erforderlich",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Die Berechtigung für Fahrzeuginformationen ist erforderlich. Entferne die Berechtigungen von Tessie und stelle die Verbindung zu deinem Tesla-Konto wieder her.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Die Berechtigung für Fahrzeuginformationen ist erforderlich. Du kannst dies unter Einstellungen > Konnektivität beheben.",
   "tires": "Reifen",

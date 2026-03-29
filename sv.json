@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Butiken hade ett problem med förfrågan",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Behörighet för hantering av fordonsladdning krävs för Supercharging-kostnader och laddningskontroller. Du kan åtgärda detta under Inställningar > Anslutning.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Behörighet för fordonkommandon krävs för kontroller. Du kan åtgärda detta under Inställningar > Anslutning.",
-  "theVehicleInformationPermissionIsRequired": "Behörighet för fordonsinformation krävs.",
+  "theVehicleInformationPermissionIsRequired": "Behörighet för fordonsinformation krävs",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Behörighet för fordonsinformation krävs. Ta bort Tessies behörigheter och återanslut ditt Tesla-konto.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Behörighet för fordonsinformation krävs. Du kan åtgärda detta under Inställningar > Anslutning.",
   "tires": "Däck",

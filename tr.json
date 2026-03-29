@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Mağazada istekle ilgili bir sorun oluştu.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Süper Şarj maliyetleri ve şarj kontrolleri için Araç Şarj Yönetimi izni gereklidir. Bunu Ayarlar > Bağlantı'dan düzeltebilirsiniz.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Kontroller için Araç Komutları izni gereklidir. Bunu Ayarlar > Bağlantı'dan düzeltebilirsiniz.",
-  "theVehicleInformationPermissionIsRequired": "Araç Bilgisi izni gereklidir.",
+  "theVehicleInformationPermissionIsRequired": "Araç Bilgisi izni gereklidir",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Araç Bilgisi izni gereklidir. Tessie'nin izinlerini kaldırın ve Tesla hesabınızı yeniden bağlayın.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Araç Bilgisi izni gereklidir. Bunu Ayarlar > Bağlantı'dan düzeltebilirsiniz.",
   "tires": "Lastikler",

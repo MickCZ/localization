@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Sklep ma problem z tym żądaniem.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Aby śledzić koszt ładowania na Superchargerach i sterować ładowaniem, niezbędne są uprawnienia do zarządzania ładowaniem pojazdu. Możesz je nadać w Ustawienia > Łączność.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Wymagane są uprawnienia do sterowania pojazdem. Możesz je nadać w Ustawienia > Łączność.",
-  "theVehicleInformationPermissionIsRequired": "Wymagane są uprawnienia do uzyskania informacji o pojeździe.",
+  "theVehicleInformationPermissionIsRequired": "Wymagane są uprawnienia do uzyskania informacji o pojeździe",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Wymagane są uprawnienia do uzyskania informacji o pojeździe. Usuń uprawnienia dla Tessie i ponownie podłącz konto Tesla.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Wymagane są uprawnienia do uzyskania informacji o pojeździe. Możesz je nadać w Ustawienia > Łączność.",
   "tires": "Opony",

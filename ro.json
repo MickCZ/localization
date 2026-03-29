@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Magazinul a întâmpinat o problemă cu cererea.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Permisiunea pentru gestionarea încărcării mașinii este necesară pentru costurile de superîncărcare și controalele de încărcare. Această problemă poate fi remediată în Setări > Conectivitate.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Permisiunea pentru comenzile mașinii este necesară pentru controale. Această problemă poate fi remediată în Setări > Conectivitate.",
-  "theVehicleInformationPermissionIsRequired": "Este necesară permisiunea pentru informații despre mașină.",
+  "theVehicleInformationPermissionIsRequired": "Este necesară permisiunea pentru informații despre mașină",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Este necesară permisiunea pentru informații despre mașină. Revocați permisiunile Tessie și reconectați-vă contul Tesla.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Este necesară permisiunea pentru informații despre mașină. Această problemă poate fi remediată în Setări > Conectivitate.",
   "tires": "Anvelope",

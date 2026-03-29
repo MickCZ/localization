@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Obchod měl problém se zpracováním požadavku.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Pro zobrazení nákladů na Supercharger a ovládání nabíjení je vyžadováno oprávnění Správa nabíjení vozidla. Toto můžete opravit v Nastavení > Připojení.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Pro ovládání je vyžadováno oprávnění Příkazy vozidla. Toto můžete opravit v Nastavení > Připojení.",
-  "theVehicleInformationPermissionIsRequired": "Je vyžadováno oprávnění Informace o vozidle.",
+  "theVehicleInformationPermissionIsRequired": "Je vyžadováno oprávnění Informace o vozidle",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Je vyžadováno oprávnění Informace o vozidle. Odeberte oprávnění Tessie a znovu připojte svůj účet Tesla.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Je vyžadováno oprávnění Informace o vozidle. Toto můžete opravit v Nastavení > Připojení.",
   "tires": "Pneumatiky",

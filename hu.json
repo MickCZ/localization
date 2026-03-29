@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Az üzletnek problémája volt a kéréssel.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "A Járműtöltés-kezelési engedély szükséges a Supercharging költségekhez és a töltés ellenőrzéséhez. Ezt a Beállítások > a Kapcsolat alatt javíthatja ki.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "A vezérlőkhöz a Járműparancsok engedély szükséges. Ezt a Beállítások > Csatlakoztatás menüpontban javíthatja ki.",
-  "theVehicleInformationPermissionIsRequired": "A járműinformációk engedélye szükséges.",
+  "theVehicleInformationPermissionIsRequired": "A járműinformációk engedélye szükséges",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "A járműinformációk engedélye szükséges. Távolítsa el Tessie engedélyeit, és csatlakoztassa újra Tesla-fiókját.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "A járműinformációs engedély szükséges. Ezt a Beállítások > Csatlakoztatás menüpontban javíthatja ki.",
   "tires": "Gumiabroncsok",

@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "Kaupassa oli ongelma pyynnön kanssa.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Ajoneuvon latauksen hallinta -oikeus tarvitaan Supercharging-kustannuksiin ja latauksen hallintaan. Voit korjata tämän kohdasta Asetukset > Yhteydet.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Ajoneuvon komennot -oikeus tarvitaan ohjaimiin. Voit korjata tämän kohdasta Asetukset > Yhteydet.",
-  "theVehicleInformationPermissionIsRequired": "Ajoneuvon tiedot -oikeus vaaditaan.",
+  "theVehicleInformationPermissionIsRequired": "Ajoneuvon tiedot -oikeus vaaditaan",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Ajoneuvon tiedot -oikeus vaaditaan. Poista Tessien käyttöoikeudet ja yhdistä Tesla-tilisi uudelleen.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Ajoneuvon tiedot -oikeus vaaditaan. Voit korjata tämän kohdasta Asetukset > Yhteydet.",
   "tires": "Renkaat",

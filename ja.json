@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "ストアはリクエストに問題がありました。",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Superchargingのコストと充電制御には、車両充電管理の権限が必要です。これは、設定 > 接続で修正できます。",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "制御には、車両コマンドの権限が必要です。これは、設定 > 接続で修正できます。",
-  "theVehicleInformationPermissionIsRequired": "車両情報の権限が必要です。",
+  "theVehicleInformationPermissionIsRequired": "車両情報の権限が必要です",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "車両情報の権限が必要です。Tessieの権限を削除し、Teslaアカウントを再接続してください。",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "車両情報の権限が必要です。これは、設定 > 接続で修正できます。",
   "tires": "タイヤ",

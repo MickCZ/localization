@@ -205,7 +205,7 @@
   "theStoreHadAProblemWithTheRequest": "La tienda tuvo un problema con la solicitud.",
   "theVehicleChargingManagementPermissionIsRequiredForSuperchargingCosts": "Se requiere el permiso de gestión de carga del vehículo para los costes de supercarga y los controles de carga. Puede solucionarlo en Ajustes > Conectividad.",
   "theVehicleCommandsPermissionIsRequiredForControlsYouCan": "Se requiere el permiso de comandos del vehículo para los controles. Puede solucionarlo en Ajustes > Conectividad.",
-  "theVehicleInformationPermissionIsRequired": "Se requiere el permiso de información del vehículo.",
+  "theVehicleInformationPermissionIsRequired": "Se requiere el permiso de información del vehículo",
   "theVehicleInformationPermissionIsRequiredRemoveTessiesPermissionsAnd": "Se requiere el permiso de información del vehículo. Elimine los permisos de Tessie y vuelva a conectar su cuenta Tesla.",
   "theVehicleInformationPermissionIsRequiredYouCanFixThis": "Se requiere el permiso de información del vehículo. Puede solucionarlo en Ajustes > Conectividad.",
   "tires": "Neumáticos",
