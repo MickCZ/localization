@@ -2828,5 +2828,5 @@
   "showRangeAtTheTopOfTheHomeScreen": "ホーム画面の上部に航続距離を表示",
   "amountAnnualSavingsFound": "見つかった年間節約額: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "以下のおすすめを確認して、節約できる方法をご覧ください",
-  "selectTheVehicleYouWantToUseWithTessieYou": "Tessie で使用する車両を選択してください。これは後で変更できます。"
+  "selectTheVehicleYouWantToUse": "使用する車両を選択してください"
 }

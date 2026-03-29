@@ -2828,5 +2828,5 @@
   "showRangeAtTheTopOfTheHomeScreen": "Показывать запас хода в верхней части главного экрана",
   "amountAnnualSavingsFound": "Найдено ежегодной экономии: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Ознакомьтесь с нашими рекомендациями ниже, чтобы узнать, как вы можете сэкономить деньги",
-  "selectTheVehicleYouWantToUseWithTessieYou": "Выберите автомобиль, который хотите использовать с Tessie. Позже это можно изменить."
+  "selectTheVehicleYouWantToUse": "Выберите автомобиль, который хотите использовать"
 }
