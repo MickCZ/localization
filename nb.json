@@ -2827,5 +2827,6 @@
   "units": "Enheter",
   "showRangeAtTheTopOfTheHomeScreen": "Vis rekkevidde øverst på hjemskjermen",
   "amountAnnualSavingsFound": "Funnet årlig besparelse: {amount}",
-  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Se anbefalingene våre nedenfor for å se hvordan du kan spare penger"
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Se anbefalingene våre nedenfor for å se hvordan du kan spare penger",
+  "selectTheVehicleYouWantToUseWithTessieYou": "Velg kjøretøyet du vil bruke med Tessie. Du kan endre dette senere."
 }

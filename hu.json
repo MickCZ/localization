@@ -2827,5 +2827,6 @@
   "units": "Mértékegységek",
   "showRangeAtTheTopOfTheHomeScreen": "Hatótáv megjelenítése a kezdőképernyő tetején",
   "amountAnnualSavingsFound": "Talált éves megtakarítás: {amount}",
-  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Nézd át az alábbi javaslatainkat, hogy lásd, hogyan takaríthatsz meg pénzt"
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Nézd át az alábbi javaslatainkat, hogy lásd, hogyan takaríthatsz meg pénzt",
+  "selectTheVehicleYouWantToUseWithTessieYou": "Válaszd ki a járművet, amelyet a Tessie-vel szeretnél használni. Ezt később módosíthatod."
 }

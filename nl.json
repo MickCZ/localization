@@ -2827,5 +2827,6 @@
   "units": "Eenheden",
   "showRangeAtTheTopOfTheHomeScreen": "Toon actieradius bovenaan het startscherm",
   "amountAnnualSavingsFound": "Gevonden jaarlijkse besparing: {amount}",
-  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Bekijk hieronder onze aanbevelingen om te zien hoe je geld kunt besparen"
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Bekijk hieronder onze aanbevelingen om te zien hoe je geld kunt besparen",
+  "selectTheVehicleYouWantToUseWithTessieYou": "Selecteer het voertuig dat je met Tessie wilt gebruiken. Je kunt dit later wijzigen."
 }

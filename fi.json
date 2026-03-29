@@ -2827,5 +2827,6 @@
   "units": "Yksiköt",
   "showRangeAtTheTopOfTheHomeScreen": "Näytä toimintamatka aloitusnäytön yläosassa",
   "amountAnnualSavingsFound": "Löydetyt vuosisäästöt: {amount}",
-  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Tutustu alla oleviin suosituksiimme nähdäksesi, miten voit säästää rahaa"
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Tutustu alla oleviin suosituksiimme nähdäksesi, miten voit säästää rahaa",
+  "selectTheVehicleYouWantToUseWithTessieYou": "Valitse ajoneuvo, jota haluat käyttää Tessien kanssa. Voit muuttaa tämän myöhemmin."
 }

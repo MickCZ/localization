@@ -2827,5 +2827,6 @@
   "units": "Einheiten",
   "showRangeAtTheTopOfTheHomeScreen": "Reichweite oben auf dem Startbildschirm anzeigen",
   "amountAnnualSavingsFound": "Gefundene jährliche Einsparungen: {amount}",
-  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Sieh dir unten unsere Empfehlungen an, um zu erfahren, wie du Geld sparen kannst"
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Sieh dir unten unsere Empfehlungen an, um zu erfahren, wie du Geld sparen kannst",
+  "selectTheVehicleYouWantToUseWithTessieYou": "Wählen Sie das Fahrzeug aus, das Sie mit Tessie verwenden möchten. Sie können dies später ändern."
 }

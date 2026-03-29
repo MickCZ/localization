@@ -2827,5 +2827,6 @@
   "units": "單位",
   "showRangeAtTheTopOfTheHomeScreen": "在主畫面頂部顯示續航里程",
   "amountAnnualSavingsFound": "找到的年度節省額：{amount}",
-  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "查看下方的建議，了解如何節省開支"
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "查看下方的建議，了解如何節省開支",
+  "selectTheVehicleYouWantToUseWithTessieYou": "請選擇您要與 Tessie 一起使用的車輛。您之後可以變更。"
 }

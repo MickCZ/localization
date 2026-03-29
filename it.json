@@ -2827,5 +2827,6 @@
   "units": "Unità",
   "showRangeAtTheTopOfTheHomeScreen": "Mostra l'autonomia nella parte superiore della schermata iniziale",
   "amountAnnualSavingsFound": "Risparmio annuale trovato: {amount}",
-  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Consulta i nostri consigli qui sotto per vedere come puoi risparmiare denaro"
+  "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Consulta i nostri consigli qui sotto per vedere come puoi risparmiare denaro",
+  "selectTheVehicleYouWantToUseWithTessieYou": "Seleziona il veicolo che vuoi usare con Tessie. Potrai cambiarlo in seguito."
 }
