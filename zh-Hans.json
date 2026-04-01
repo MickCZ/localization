@@ -2835,5 +2835,7 @@
   "step1SignOut": "第 1 步：退出",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "按“继续”退出 tesla.com，然后返回以关联您的新账户。",
   "step2SignIn": "第 2 步：登录",
-  "pressContinueToSignIntoYourTeslaAccount": "按“继续”登录您的 Tesla 账户。"
+  "pressContinueToSignIntoYourTeslaAccount": "按“继续”登录您的 Tesla 账户。",
+  "connectTheEmailShownInYourTeslaApp": "连接 Tesla App 中显示的邮箱",
+  "toFindItTapTheMenuIconInTheTesla": "要找到它，请点击 Tesla App 中的菜单图标，然后查看您姓名下方"
 }

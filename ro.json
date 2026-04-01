@@ -2835,5 +2835,7 @@
   "step1SignOut": "Pasul 1: Deconectați-vă",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Apăsați pe Continuă pentru a vă deconecta de pe tesla.com, apoi reveniți pentru a conecta noul dvs. cont.",
   "step2SignIn": "Pasul 2: Conectați-vă",
-  "pressContinueToSignIntoYourTeslaAccount": "Apăsați pe Continuă pentru a vă conecta la contul dvs. Tesla."
+  "pressContinueToSignIntoYourTeslaAccount": "Apăsați pe Continuă pentru a vă conecta la contul dvs. Tesla.",
+  "connectTheEmailShownInYourTeslaApp": "Conectează e-mailul afișat în aplicația Tesla",
+  "toFindItTapTheMenuIconInTheTesla": "Pentru a-l găsi, atinge pictograma de meniu din aplicația Tesla și caută sub numele tău"
 }

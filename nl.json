@@ -2835,5 +2835,7 @@
   "step1SignOut": "Stap 1: Afmelden",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Druk op Doorgaan om je af te melden bij tesla.com en kom daarna terug om je nieuwe account te koppelen.",
   "step2SignIn": "Stap 2: Aanmelden",
-  "pressContinueToSignIntoYourTeslaAccount": "Druk op Doorgaan om je aan te melden bij je Tesla-account."
+  "pressContinueToSignIntoYourTeslaAccount": "Druk op Doorgaan om je aan te melden bij je Tesla-account.",
+  "connectTheEmailShownInYourTeslaApp": "Verbind het e-mailadres dat in uw Tesla-app wordt weergegeven",
+  "toFindItTapTheMenuIconInTheTesla": "Tik op het menupictogram in de Tesla-app en kijk onder uw naam om het te vinden"
 }

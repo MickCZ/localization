@@ -2835,5 +2835,7 @@
   "step1SignOut": "Vaihe 1: Kirjaudu ulos",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Paina Jatka, kirjaudu ulos tesla.com-palvelusta ja palaa sitten linkittämään uuden tilisi.",
   "step2SignIn": "Vaihe 2: Kirjaudu sisään",
-  "pressContinueToSignIntoYourTeslaAccount": "Paina Jatka kirjautuaksesi Tesla-tilillesi."
+  "pressContinueToSignIntoYourTeslaAccount": "Paina Jatka kirjautuaksesi Tesla-tilillesi.",
+  "connectTheEmailShownInYourTeslaApp": "Yhdistä Tesla-sovelluksessasi näkyvä sähköpostiosoite",
+  "toFindItTapTheMenuIconInTheTesla": "Löydät sen napauttamalla Tesla-sovelluksen valikkokuvaketta ja katsomalla nimesi alta"
 }

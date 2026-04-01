@@ -2835,5 +2835,7 @@
   "step1SignOut": "Étape 1 : Se déconnecter",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Appuyez sur Continuer pour vous déconnecter de tesla.com, puis revenez pour associer votre nouveau compte.",
   "step2SignIn": "Étape 2 : Se connecter",
-  "pressContinueToSignIntoYourTeslaAccount": "Appuyez sur Continuer pour vous connecter à votre compte Tesla."
+  "pressContinueToSignIntoYourTeslaAccount": "Appuyez sur Continuer pour vous connecter à votre compte Tesla.",
+  "connectTheEmailShownInYourTeslaApp": "Connectez l’adresse e-mail affichée dans votre application Tesla",
+  "toFindItTapTheMenuIconInTheTesla": "Pour la trouver, appuyez sur l’icône de menu dans l’application Tesla et regardez sous votre nom"
 }

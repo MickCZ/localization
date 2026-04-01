@@ -2835,5 +2835,7 @@
   "step1SignOut": "1. lépés: Kijelentkezés",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Nyomja meg a Tovább gombot a tesla.com webhelyről való kijelentkezéshez, majd térjen vissza az új fiók összekapcsolásához.",
   "step2SignIn": "2. lépés: Bejelentkezés",
-  "pressContinueToSignIntoYourTeslaAccount": "Nyomja meg a Tovább gombot a Tesla-fiókjába való bejelentkezéshez."
+  "pressContinueToSignIntoYourTeslaAccount": "Nyomja meg a Tovább gombot a Tesla-fiókjába való bejelentkezéshez.",
+  "connectTheEmailShownInYourTeslaApp": "Csatlakoztassa a Tesla alkalmazásban megjelenő e-mail-címet",
+  "toFindItTapTheMenuIconInTheTesla": "Megtalálhatja, ha a Tesla alkalmazásban a menü ikonra koppint, és a neve alatt keresi"
 }

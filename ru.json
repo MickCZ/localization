@@ -2835,5 +2835,7 @@
   "step1SignOut": "Шаг 1: Выйти",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Нажмите «Продолжить», чтобы выйти из tesla.com, затем вернитесь, чтобы привязать новую учетную запись.",
   "step2SignIn": "Шаг 2: Войти",
-  "pressContinueToSignIntoYourTeslaAccount": "Нажмите «Продолжить», чтобы войти в свою учетную запись Tesla."
+  "pressContinueToSignIntoYourTeslaAccount": "Нажмите «Продолжить», чтобы войти в свою учетную запись Tesla.",
+  "connectTheEmailShownInYourTeslaApp": "Подключите адрес электронной почты, указанный в приложении Tesla",
+  "toFindItTapTheMenuIconInTheTesla": "Чтобы найти его, нажмите значок меню в приложении Tesla и посмотрите под своим именем."
 }

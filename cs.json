@@ -2835,5 +2835,7 @@
   "step1SignOut": "Krok 1: Odhlásit se",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Stiskněte Pokračovat, odhlaste se z tesla.com a pak se vraťte a propojte svůj nový účet.",
   "step2SignIn": "Krok 2: Přihlásit se",
-  "pressContinueToSignIntoYourTeslaAccount": "Stiskněte Pokračovat a přihlaste se ke svému účtu Tesla."
+  "pressContinueToSignIntoYourTeslaAccount": "Stiskněte Pokračovat a přihlaste se ke svému účtu Tesla.",
+  "connectTheEmailShownInYourTeslaApp": "Připojte e-mail uvedený v aplikaci Tesla",
+  "toFindItTapTheMenuIconInTheTesla": "Najdete ho tak, že v aplikaci Tesla klepnete na ikonu nabídky a podíváte se pod své jméno"
 }

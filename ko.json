@@ -2835,5 +2835,7 @@
   "step1SignOut": "1단계: 로그아웃",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "계속을 눌러 tesla.com에서 로그아웃한 다음 돌아와 새 계정을 연결하세요.",
   "step2SignIn": "2단계: 로그인",
-  "pressContinueToSignIntoYourTeslaAccount": "계속을 눌러 Tesla 계정에 로그인하세요."
+  "pressContinueToSignIntoYourTeslaAccount": "계속을 눌러 Tesla 계정에 로그인하세요.",
+  "connectTheEmailShownInYourTeslaApp": "Tesla 앱에 표시된 이메일을 연결하세요",
+  "toFindItTapTheMenuIconInTheTesla": "찾으려면 Tesla 앱에서 메뉴 아이콘을 탭한 다음 이름 아래를 확인하세요"
 }

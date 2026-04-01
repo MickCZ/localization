@@ -2835,5 +2835,7 @@
   "step1SignOut": "Paso 1: Cerrar sesión",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Presiona Continuar para cerrar sesión en tesla.com y luego regresa para vincular tu nueva cuenta.",
   "step2SignIn": "Paso 2: Iniciar sesión",
-  "pressContinueToSignIntoYourTeslaAccount": "Presiona Continuar para iniciar sesión en tu cuenta de Tesla."
+  "pressContinueToSignIntoYourTeslaAccount": "Presiona Continuar para iniciar sesión en tu cuenta de Tesla.",
+  "connectTheEmailShownInYourTeslaApp": "Conecta el correo electrónico que aparece en tu aplicación de Tesla",
+  "toFindItTapTheMenuIconInTheTesla": "Para encontrarlo, pulsa el icono del menú en la aplicación de Tesla y busca debajo de tu nombre"
 }

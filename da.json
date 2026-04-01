@@ -2835,5 +2835,7 @@
   "step1SignOut": "Trin 1: Log ud",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "Tryk på Fortsæt for at logge ud af tesla.com, og gå derefter tilbage for at knytte din nye konto.",
   "step2SignIn": "Trin 2: Log på",
-  "pressContinueToSignIntoYourTeslaAccount": "Tryk på Fortsæt for at logge ind på din Tesla-konto."
+  "pressContinueToSignIntoYourTeslaAccount": "Tryk på Fortsæt for at logge ind på din Tesla-konto.",
+  "connectTheEmailShownInYourTeslaApp": "Forbind den e-mailadresse, der vises i din Tesla-app",
+  "toFindItTapTheMenuIconInTheTesla": "For at finde den skal du trykke på menuikonet i Tesla-appen og se under dit navn"
 }

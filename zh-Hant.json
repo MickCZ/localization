@@ -2835,5 +2835,7 @@
   "step1SignOut": "第 1 步：登出",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "按一下「繼續」以登出 tesla.com，然後返回以連結您的新帳號。",
   "step2SignIn": "第 2 步：登入",
-  "pressContinueToSignIntoYourTeslaAccount": "按一下「繼續」以登入您的 Tesla 帳號。"
+  "pressContinueToSignIntoYourTeslaAccount": "按一下「繼續」以登入您的 Tesla 帳號。",
+  "connectTheEmailShownInYourTeslaApp": "連結 Tesla 應用程式中顯示的電子郵件地址",
+  "toFindItTapTheMenuIconInTheTesla": "若要找到它，請點選 Tesla 應用程式中的選單圖示，然後查看您姓名下方"
 }

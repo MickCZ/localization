@@ -2835,5 +2835,7 @@
   "step1SignOut": "ステップ1: サインアウト",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "［続行］を押してtesla.comからサインアウトし、新しいアカウントをリンクするために戻ってきてください。",
   "step2SignIn": "ステップ2: サインイン",
-  "pressContinueToSignIntoYourTeslaAccount": "［続行］を押してTeslaアカウントにサインインしてください。"
+  "pressContinueToSignIntoYourTeslaAccount": "［続行］を押してTeslaアカウントにサインインしてください。",
+  "connectTheEmailShownInYourTeslaApp": "Tesla アプリに表示されているメールアドレスを接続",
+  "toFindItTapTheMenuIconInTheTesla": "確認するには、Tesla アプリのメニューアイコンをタップして名前の下を確認してください"
 }

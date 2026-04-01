@@ -2835,5 +2835,7 @@
   "step1SignOut": "1. Adım: Oturumu kapat",
   "pressContinueToSignOutOfTeslacomThenReturnTo": "tesla.com'da oturumu kapatmak için Devam'a basın, ardından yeni hesabınızı bağlamak için geri dönün.",
   "step2SignIn": "2. Adım: Oturum aç",
-  "pressContinueToSignIntoYourTeslaAccount": "Tesla hesabınızda oturum açmak için Devam'a basın."
+  "pressContinueToSignIntoYourTeslaAccount": "Tesla hesabınızda oturum açmak için Devam'a basın.",
+  "connectTheEmailShownInYourTeslaApp": "Tesla uygulamanızda gösterilen e-posta adresini bağlayın",
+  "toFindItTapTheMenuIconInTheTesla": "Bulmak için Tesla uygulamasında menü simgesine dokunun ve adınızın altına bakın"
 }
