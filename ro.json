@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Afișează autonomia în partea de sus a ecranului principal",
   "amountAnnualSavingsFound": "Economii anuale găsite: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Consultă recomandările noastre de mai jos pentru a vedea cum poți economisi bani",
-  "selectTheVehicleYouWantToUse": "Selectează vehiculul pe care vrei să îl folosești"
+  "selectTheVehicleYouWantToUse": "Selectează vehiculul pe care vrei să îl folosești",
+  "checkingForEncryptionKey": "Se verifică cheia de criptare",
+  "activatingVehicle": "Activarea vehiculului",
+  "configuringYourAccount": "Configurarea contului dumneavoastră",
+  "step1SignOut": "Pasul 1: Deconectați-vă",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Apăsați pe Continuă pentru a vă deconecta de pe tesla.com, apoi reveniți pentru a conecta noul dvs. cont.",
+  "step2SignIn": "Pasul 2: Conectați-vă",
+  "pressContinueToSignIntoYourTeslaAccount": "Apăsați pe Continuă pentru a vă conecta la contul dvs. Tesla."
 }

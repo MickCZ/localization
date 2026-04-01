@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Hatótáv megjelenítése a kezdőképernyő tetején",
   "amountAnnualSavingsFound": "Talált éves megtakarítás: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Nézd át az alábbi javaslatainkat, hogy lásd, hogyan takaríthatsz meg pénzt",
-  "selectTheVehicleYouWantToUse": "Válaszd ki a járművet, amelyet szeretnél használni"
+  "selectTheVehicleYouWantToUse": "Válaszd ki a járművet, amelyet szeretnél használni",
+  "checkingForEncryptionKey": "Titkosítási kulcs ellenőrzése",
+  "activatingVehicle": "Jármű aktiválása",
+  "configuringYourAccount": "Fiók konfigurálása",
+  "step1SignOut": "1. lépés: Kijelentkezés",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Nyomja meg a Tovább gombot a tesla.com webhelyről való kijelentkezéshez, majd térjen vissza az új fiók összekapcsolásához.",
+  "step2SignIn": "2. lépés: Bejelentkezés",
+  "pressContinueToSignIntoYourTeslaAccount": "Nyomja meg a Tovább gombot a Tesla-fiókjába való bejelentkezéshez."
 }

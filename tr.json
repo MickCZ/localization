@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Menzili ana ekranın üst kısmında göster",
   "amountAnnualSavingsFound": "Bulunan yıllık tasarruf: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Nasıl tasarruf edebileceğinizi görmek için aşağıdaki önerilerimizi inceleyin",
-  "selectTheVehicleYouWantToUse": "Kullanmak istediğiniz aracı seçin"
+  "selectTheVehicleYouWantToUse": "Kullanmak istediğiniz aracı seçin",
+  "checkingForEncryptionKey": "Şifreleme anahtarı kontrol ediliyor",
+  "activatingVehicle": "Araç etkinleştiriliyor",
+  "configuringYourAccount": "Hesabınız yapılandırılıyor",
+  "step1SignOut": "1. Adım: Oturumu kapat",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "tesla.com'da oturumu kapatmak için Devam'a basın, ardından yeni hesabınızı bağlamak için geri dönün.",
+  "step2SignIn": "2. Adım: Oturum aç",
+  "pressContinueToSignIntoYourTeslaAccount": "Tesla hesabınızda oturum açmak için Devam'a basın."
 }

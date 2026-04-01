@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Показывать запас хода в верхней части главного экрана",
   "amountAnnualSavingsFound": "Найдено ежегодной экономии: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Ознакомьтесь с нашими рекомендациями ниже, чтобы узнать, как вы можете сэкономить деньги",
-  "selectTheVehicleYouWantToUse": "Выберите автомобиль, который хотите использовать"
+  "selectTheVehicleYouWantToUse": "Выберите автомобиль, который хотите использовать",
+  "checkingForEncryptionKey": "Проверка ключа шифрования",
+  "activatingVehicle": "Активация автомобиля",
+  "configuringYourAccount": "Настройка вашей учетной записи",
+  "step1SignOut": "Шаг 1: Выйти",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Нажмите «Продолжить», чтобы выйти из tesla.com, затем вернитесь, чтобы привязать новую учетную запись.",
+  "step2SignIn": "Шаг 2: Войти",
+  "pressContinueToSignIntoYourTeslaAccount": "Нажмите «Продолжить», чтобы войти в свою учетную запись Tesla."
 }

@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "홈 화면 상단에 주행 가능 거리 표시",
   "amountAnnualSavingsFound": "발견된 연간 절감액: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "아래 권장 사항을 검토하여 비용을 절약할 수 있는 방법을 확인하세요",
-  "selectTheVehicleYouWantToUse": "사용할 차량을 선택하세요"
+  "selectTheVehicleYouWantToUse": "사용할 차량을 선택하세요",
+  "checkingForEncryptionKey": "암호화 키를 확인하는 중",
+  "activatingVehicle": "차량 활성화 중",
+  "configuringYourAccount": "계정 설정 중",
+  "step1SignOut": "1단계: 로그아웃",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "계속을 눌러 tesla.com에서 로그아웃한 다음 돌아와 새 계정을 연결하세요.",
+  "step2SignIn": "2단계: 로그인",
+  "pressContinueToSignIntoYourTeslaAccount": "계속을 눌러 Tesla 계정에 로그인하세요."
 }

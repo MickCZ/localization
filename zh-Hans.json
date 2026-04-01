@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "在主屏幕顶部显示续航里程",
   "amountAnnualSavingsFound": "发现的年度节省额：{amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "查看下面的建议，了解如何节省开支",
-  "selectTheVehicleYouWantToUse": "请选择您要使用的车辆"
+  "selectTheVehicleYouWantToUse": "请选择您要使用的车辆",
+  "checkingForEncryptionKey": "正在检查加密密钥",
+  "activatingVehicle": "正在激活车辆",
+  "configuringYourAccount": "正在配置您的账户",
+  "step1SignOut": "第 1 步：退出",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "按“继续”退出 tesla.com，然后返回以关联您的新账户。",
+  "step2SignIn": "第 2 步：登录",
+  "pressContinueToSignIntoYourTeslaAccount": "按“继续”登录您的 Tesla 账户。"
 }

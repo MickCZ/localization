@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Näytä toimintamatka aloitusnäytön yläosassa",
   "amountAnnualSavingsFound": "Löydetyt vuosisäästöt: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Tutustu alla oleviin suosituksiimme nähdäksesi, miten voit säästää rahaa",
-  "selectTheVehicleYouWantToUse": "Valitse ajoneuvo, jota haluat käyttää"
+  "selectTheVehicleYouWantToUse": "Valitse ajoneuvo, jota haluat käyttää",
+  "checkingForEncryptionKey": "Tarkistetaan salausavainta",
+  "activatingVehicle": "Aktivoidaan ajoneuvoa",
+  "configuringYourAccount": "Määritetään tiliäsi",
+  "step1SignOut": "Vaihe 1: Kirjaudu ulos",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Paina Jatka, kirjaudu ulos tesla.com-palvelusta ja palaa sitten linkittämään uuden tilisi.",
+  "step2SignIn": "Vaihe 2: Kirjaudu sisään",
+  "pressContinueToSignIntoYourTeslaAccount": "Paina Jatka kirjautuaksesi Tesla-tilillesi."
 }

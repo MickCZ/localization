@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Vis rækkevidde øverst på hjemmeskærmen",
   "amountAnnualSavingsFound": "Fundne årlige besparelser: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Gennemgå vores anbefalinger nedenfor for at se, hvordan du kan spare penge",
-  "selectTheVehicleYouWantToUse": "Vælg det køretøj, du vil bruge"
+  "selectTheVehicleYouWantToUse": "Vælg det køretøj, du vil bruge",
+  "checkingForEncryptionKey": "Kontrollerer krypteringsnøgle",
+  "activatingVehicle": "Aktiverer køretøj",
+  "configuringYourAccount": "Konfigurerer din konto",
+  "step1SignOut": "Trin 1: Log ud",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Tryk på Fortsæt for at logge ud af tesla.com, og gå derefter tilbage for at knytte din nye konto.",
+  "step2SignIn": "Trin 2: Log på",
+  "pressContinueToSignIntoYourTeslaAccount": "Tryk på Fortsæt for at logge ind på din Tesla-konto."
 }

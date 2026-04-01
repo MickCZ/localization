@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Pokazuj zasięg u góry ekranu głównego",
   "amountAnnualSavingsFound": "Znalezione roczne oszczędności: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Przejrzyj nasze zalecenia poniżej, aby zobaczyć, jak możesz zaoszczędzić pieniądze",
-  "selectTheVehicleYouWantToUse": "Wybierz pojazd, którego chcesz używać"
+  "selectTheVehicleYouWantToUse": "Wybierz pojazd, którego chcesz używać",
+  "checkingForEncryptionKey": "Sprawdzanie klucza szyfrowania",
+  "activatingVehicle": "Aktywowanie pojazdu",
+  "configuringYourAccount": "Konfigurowanie konta",
+  "step1SignOut": "Krok 1: Wyloguj się",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Naciśnij Kontynuuj, aby wylogować się z tesla.com, a następnie wróć, aby połączyć swoje nowe konto.",
+  "step2SignIn": "Krok 2: Zaloguj się",
+  "pressContinueToSignIntoYourTeslaAccount": "Naciśnij Kontynuuj, aby zalogować się na swoje konto Tesla."
 }

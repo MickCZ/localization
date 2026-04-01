@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Mostrar la autonomía en la parte superior de la pantalla de inicio",
   "amountAnnualSavingsFound": "Ahorro anual encontrado: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Revisa nuestras recomendaciones a continuación para ver cómo puedes ahorrar dinero",
-  "selectTheVehicleYouWantToUse": "Selecciona el vehículo que quieres usar"
+  "selectTheVehicleYouWantToUse": "Selecciona el vehículo que quieres usar",
+  "checkingForEncryptionKey": "Comprobando la clave de cifrado",
+  "activatingVehicle": "Activando vehículo",
+  "configuringYourAccount": "Configurando tu cuenta",
+  "step1SignOut": "Paso 1: Cerrar sesión",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Presiona Continuar para cerrar sesión en tesla.com y luego regresa para vincular tu nueva cuenta.",
+  "step2SignIn": "Paso 2: Iniciar sesión",
+  "pressContinueToSignIntoYourTeslaAccount": "Presiona Continuar para iniciar sesión en tu cuenta de Tesla."
 }

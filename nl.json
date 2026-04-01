@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Toon actieradius bovenaan het startscherm",
   "amountAnnualSavingsFound": "Gevonden jaarlijkse besparing: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Bekijk hieronder onze aanbevelingen om te zien hoe je geld kunt besparen",
-  "selectTheVehicleYouWantToUse": "Selecteer het voertuig dat je wilt gebruiken"
+  "selectTheVehicleYouWantToUse": "Selecteer het voertuig dat je wilt gebruiken",
+  "checkingForEncryptionKey": "Bezig met controleren van de versleutelingssleutel",
+  "activatingVehicle": "Voertuig activeren",
+  "configuringYourAccount": "Je account configureren",
+  "step1SignOut": "Stap 1: Afmelden",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Druk op Doorgaan om je af te melden bij tesla.com en kom daarna terug om je nieuwe account te koppelen.",
+  "step2SignIn": "Stap 2: Aanmelden",
+  "pressContinueToSignIntoYourTeslaAccount": "Druk op Doorgaan om je aan te melden bij je Tesla-account."
 }

@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "Show range at the top of the home screen",
   "amountAnnualSavingsFound": "{amount} annual savings found",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "Review our recommendations below to see how you can save money",
-  "selectTheVehicleYouWantToUse": "Select the vehicle you want to use"
+  "selectTheVehicleYouWantToUse": "Select the vehicle you want to use",
+  "activatingVehicle": "Activating vehicle",
+  "configuringYourAccount": "Configuring your account",
+  "checkingForEncryptionKey": "Checking for encryption key",
+  "step1SignOut": "Step 1: Sign out",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "Press Continue to sign out of tesla.com, then return to link your new account.",
+  "step2SignIn": "Step 2: Sign in",
+  "pressContinueToSignIntoYourTeslaAccount": "Press Continue to sign into your Tesla account."
 }

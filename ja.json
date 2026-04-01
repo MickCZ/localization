@@ -2828,5 +2828,12 @@
   "showRangeAtTheTopOfTheHomeScreen": "ホーム画面の上部に航続距離を表示",
   "amountAnnualSavingsFound": "見つかった年間節約額: {amount}",
   "reviewOurRecommendationsBelowToSeeHowYouCanSave": "以下のおすすめを確認して、節約できる方法をご覧ください",
-  "selectTheVehicleYouWantToUse": "使用する車両を選択してください"
+  "selectTheVehicleYouWantToUse": "使用する車両を選択してください",
+  "checkingForEncryptionKey": "暗号化キーを確認中",
+  "activatingVehicle": "車両を有効化しています",
+  "configuringYourAccount": "アカウントを設定しています",
+  "step1SignOut": "ステップ1: サインアウト",
+  "pressContinueToSignOutOfTeslacomThenReturnTo": "［続行］を押してtesla.comからサインアウトし、新しいアカウントをリンクするために戻ってきてください。",
+  "step2SignIn": "ステップ2: サインイン",
+  "pressContinueToSignIntoYourTeslaAccount": "［続行］を押してTeslaアカウントにサインインしてください。"
 }
