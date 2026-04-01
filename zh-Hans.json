@@ -2837,5 +2837,16 @@
   "step2SignIn": "第 2 步：登录",
   "pressContinueToSignIntoYourTeslaAccount": "按“继续”登录您的 Tesla 账户。",
   "connectTheEmailShownInYourTeslaApp": "连接 Tesla App 中显示的邮箱",
-  "toFindItTapTheMenuIconInTheTesla": "要找到它，请点击 Tesla App 中的菜单图标，然后查看您姓名下方"
+  "toFindItTapTheMenuIconInTheTesla": "要找到它，请点击 Tesla App 中的菜单图标，然后查看您姓名下方",
+  "keyNotDetected": "未检测到钥匙",
+  "havingTroublePressHelpForATroubleshootingGuide": "遇到问题？按“帮助”查看故障排除指南",
+  "checkingIfVehicleIsOnline": "正在检查车辆是否在线",
+  "enablingTelemetry": "正在启用遥测",
+  "validatingTelemetryData": "正在验证遥测数据",
+  "thisMightTakeAMinute": "这可能需要一分钟",
+  "vehicleOffline": "车辆离线",
+  "pleaseWakeTheVehicleAndTryAgain": "请唤醒车辆后重试",
+  "restartTheVehicleIfTheIssuePersists": "如果问题仍然存在，请重启车辆",
+  "noTelemetryDataReceived": "未收到遥测数据",
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "请确保车辆在线，并且没有网络软件干扰车辆"
 }
