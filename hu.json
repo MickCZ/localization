@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "Nem érkezett telemetriai adat",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Ellenőrizze, hogy a jármű online van, és semmilyen hálózati szoftver nem zavarja a jármű működését",
   "welcomeAboard": "Üdv a fedélzeten",
-  "tessieIsConnectedAndCollectingDataForYou": "A Tessie csatlakoztatva van, és adatokat gyűjt Önnek"
+  "tessieIsConnectedAndCollectingDataForYou": "A Tessie csatlakoztatva van, és adatokat gyűjt Önnek",
+  "perSession": "Munkamenetenként",
+  "forChargersThatBillPerSession": "A munkamenetenként számlázó töltőkre"
 }

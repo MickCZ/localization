@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "Данные телеметрии не получены",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Убедитесь, что автомобиль в сети и что никакое сетевое программное обеспечение не мешает работе автомобиля",
   "welcomeAboard": "Добро пожаловать",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie подключено и собирает для вас данные"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie подключено и собирает для вас данные",
+  "perSession": "За сеанс",
+  "forChargersThatBillPerSession": "Для зарядных устройств, которые выставляют счет за сеанс"
 }

@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "Telemetri verisi alınmadı",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Aracın çevrimiçi olduğundan ve hiçbir ağ yazılımının araçla etkileşime girmediğinden emin olun",
   "welcomeAboard": "Aramıza hoş geldiniz",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie bağlı ve sizin için veri topluyor"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie bağlı ve sizin için veri topluyor",
+  "perSession": "Oturum başına",
+  "forChargersThatBillPerSession": "Oturum başına fatura kesen şarj aletleri için"
 }

@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "テレメトリデータを受信していません",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "車両がオンラインであり、ネットワークソフトウェアが車両に干渉していないことを確認してください",
   "welcomeAboard": "ようこそ",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie が接続され、データを収集しています"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie が接続され、データを収集しています",
+  "perSession": "1セッションあたり",
+  "forChargersThatBillPerSession": "1セッション単位で課金する充電器の場合"
 }

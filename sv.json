@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "Ingen telemetridata mottagen",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Se till att fordonet är online och att ingen nätverksprogramvara stör fordonet",
   "welcomeAboard": "Välkommen ombord",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie är ansluten och samlar in data åt dig"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie är ansluten och samlar in data åt dig",
+  "perSession": "Per session",
+  "forChargersThatBillPerSession": "För laddare som debiterar per session"
 }

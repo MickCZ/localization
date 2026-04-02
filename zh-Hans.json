@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "未收到遥测数据",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "请确保车辆在线，并且没有网络软件干扰车辆",
   "welcomeAboard": "欢迎加入",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie 已连接，正在为您收集数据"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie 已连接，正在为您收集数据",
+  "perSession": "每次会话",
+  "forChargersThatBillPerSession": "适用于按次充电会话收费的充电器"
 }

@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "未收到遙測資料",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "請確認車輛在線上，且沒有網路軟體干擾車輛",
   "welcomeAboard": "歡迎加入",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie 已連線，正在為您收集資料"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie 已連線，正在為您收集資料",
+  "perSession": "每次工作階段",
+  "forChargersThatBillPerSession": "針對按次充電工作階段計費的充電器"
 }

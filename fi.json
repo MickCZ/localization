@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "Telemetriatietoja ei vastaanotettu",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Varmista, että ajoneuvo on online ja ettei mikään verkkosovellus häiritse ajoneuvoa",
   "welcomeAboard": "Tervetuloa mukaan",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie on yhdistetty ja kerää tietoja puolestasi"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie on yhdistetty ja kerää tietoja puolestasi",
+  "perSession": "Per latauskerta",
+  "forChargersThatBillPerSession": "Latureille, joiden laskutusperuste on latauskerta"
 }

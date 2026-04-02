@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "No telemetry data received",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Make sure the vehicle is online and that no network software is interfering",
   "welcomeAboard": "Welcome aboard",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie is connected and collecting data for you"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie is connected and collecting data for you",
+  "perSession": "Per session",
+  "forChargersThatBillPerSession": "For chargers that bill per session"
 }

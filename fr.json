@@ -2850,5 +2850,7 @@
   "noTelemetryDataReceived": "Aucune donnée de télémétrie reçue",
   "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Assurez-vous que le véhicule est en ligne et qu'aucun logiciel réseau n'interfère avec le véhicule",
   "welcomeAboard": "Bienvenue à bord",
-  "tessieIsConnectedAndCollectingDataForYou": "Tessie est connecté et collecte des données pour vous"
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie est connecté et collecte des données pour vous",
+  "perSession": "Par session",
+  "forChargersThatBillPerSession": "Pour les chargeurs qui facturent par session"
 }
