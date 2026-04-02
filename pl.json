@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Obudź pojazd i spróbuj ponownie",
   "restartTheVehicleIfTheIssuePersists": "Uruchom ponownie pojazd, jeśli problem będzie się powtarzać",
   "noTelemetryDataReceived": "Nie odebrano danych telemetrycznych",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Upewnij się, że pojazd jest online i że żadne oprogramowanie sieciowe nie zakłóca działania pojazdu"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Upewnij się, że pojazd jest online i że żadne oprogramowanie sieciowe nie zakłóca działania pojazdu",
+  "welcomeAboard": "Witamy na pokładzie",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie jest połączone i zbiera dla Ciebie dane"
 }

@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Activați vehiculul și încercați din nou",
   "restartTheVehicleIfTheIssuePersists": "Reporniți vehiculul dacă problema persistă",
   "noTelemetryDataReceived": "Nu au fost primite date de telemetrie",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Asigurați-vă că vehiculul este online și că niciun software de rețea nu interferează cu vehiculul"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Asigurați-vă că vehiculul este online și că niciun software de rețea nu interferează cu vehiculul",
+  "welcomeAboard": "Bine ai venit la bord",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie este conectat și colectează date pentru tine"
 }

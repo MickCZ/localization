@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "車両を起動してもう一度お試しください",
   "restartTheVehicleIfTheIssuePersists": "問題が解決しない場合は、車両を再起動してください",
   "noTelemetryDataReceived": "テレメトリデータを受信していません",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "車両がオンラインであり、ネットワークソフトウェアが車両に干渉していないことを確認してください"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "車両がオンラインであり、ネットワークソフトウェアが車両に干渉していないことを確認してください",
+  "welcomeAboard": "ようこそ",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie が接続され、データを収集しています"
 }

@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Пожалуйста, разбудите автомобиль и попробуйте снова",
   "restartTheVehicleIfTheIssuePersists": "Перезапустите автомобиль, если проблема не исчезнет",
   "noTelemetryDataReceived": "Данные телеметрии не получены",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Убедитесь, что автомобиль в сети и что никакое сетевое программное обеспечение не мешает работе автомобиля"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Убедитесь, что автомобиль в сети и что никакое сетевое программное обеспечение не мешает работе автомобиля",
+  "welcomeAboard": "Добро пожаловать",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie подключено и собирает для вас данные"
 }

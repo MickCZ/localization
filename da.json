@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Væk køretøjet og prøv igen",
   "restartTheVehicleIfTheIssuePersists": "Genstart køretøjet, hvis problemet fortsætter",
   "noTelemetryDataReceived": "Ingen telemetridata modtaget",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Sørg for, at køretøjet er online, og at intet netværkssoftware forstyrrer det"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Sørg for, at køretøjet er online, og at intet netværkssoftware forstyrrer det",
+  "welcomeAboard": "Velkommen ombord",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie er tilsluttet og indsamler data for dig"
 }

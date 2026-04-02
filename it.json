@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Riattiva il veicolo e riprova",
   "restartTheVehicleIfTheIssuePersists": "Riavvia il veicolo se il problema persiste",
   "noTelemetryDataReceived": "Nessun dato di telemetria ricevuto",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Assicurati che il veicolo sia online e che nessun software di rete interferisca con il veicolo"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Assicurati che il veicolo sia online e che nessun software di rete interferisca con il veicolo",
+  "welcomeAboard": "Benvenuto a bordo",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie è connesso e sta raccogliendo dati per te"
 }

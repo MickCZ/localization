@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Väck fordonet och försök igen",
   "restartTheVehicleIfTheIssuePersists": "Starta om fordonet om problemet kvarstår",
   "noTelemetryDataReceived": "Ingen telemetridata mottagen",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Se till att fordonet är online och att ingen nätverksprogramvara stör fordonet"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Se till att fordonet är online och att ingen nätverksprogramvara stör fordonet",
+  "welcomeAboard": "Välkommen ombord",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie är ansluten och samlar in data åt dig"
 }

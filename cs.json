@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Probuďte vozidlo a zkuste to znovu",
   "restartTheVehicleIfTheIssuePersists": "Pokud problém přetrvává, restartujte vozidlo.",
   "noTelemetryDataReceived": "Nebyla přijata žádná data telemetrie",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Ujistěte se, že je vozidlo online a že do něj nezasahuje žádný síťový software"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Ujistěte se, že je vozidlo online a že do něj nezasahuje žádný síťový software",
+  "welcomeAboard": "Vítejte na palubě",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie je připojeno a shromažďuje pro vás data"
 }

@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "请唤醒车辆后重试",
   "restartTheVehicleIfTheIssuePersists": "如果问题仍然存在，请重启车辆",
   "noTelemetryDataReceived": "未收到遥测数据",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "请确保车辆在线，并且没有网络软件干扰车辆"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "请确保车辆在线，并且没有网络软件干扰车辆",
+  "welcomeAboard": "欢迎加入",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie 已连接，正在为您收集数据"
 }

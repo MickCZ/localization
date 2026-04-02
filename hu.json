@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Kérjük, ébressze fel a járművet, majd próbálja újra",
   "restartTheVehicleIfTheIssuePersists": "Indítsa újra a járművet, ha a probléma továbbra is fennáll",
   "noTelemetryDataReceived": "Nem érkezett telemetriai adat",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Ellenőrizze, hogy a jármű online van, és semmilyen hálózati szoftver nem zavarja a jármű működését"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Ellenőrizze, hogy a jármű online van, és semmilyen hálózati szoftver nem zavarja a jármű működését",
+  "welcomeAboard": "Üdv a fedélzeten",
+  "tessieIsConnectedAndCollectingDataForYou": "A Tessie csatlakoztatva van, és adatokat gyűjt Önnek"
 }

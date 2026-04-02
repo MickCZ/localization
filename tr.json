@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Lütfen aracı uyandırıp tekrar deneyin",
   "restartTheVehicleIfTheIssuePersists": "Sorun devam ederse aracı yeniden başlatın",
   "noTelemetryDataReceived": "Telemetri verisi alınmadı",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Aracın çevrimiçi olduğundan ve hiçbir ağ yazılımının araçla etkileşime girmediğinden emin olun"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Aracın çevrimiçi olduğundan ve hiçbir ağ yazılımının araçla etkileşime girmediğinden emin olun",
+  "welcomeAboard": "Aramıza hoş geldiniz",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie bağlı ve sizin için veri topluyor"
 }

@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "請喚醒車輛後再試一次",
   "restartTheVehicleIfTheIssuePersists": "如果問題仍然存在，請重新啟動車輛",
   "noTelemetryDataReceived": "未收到遙測資料",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "請確認車輛在線上，且沒有網路軟體干擾車輛"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "請確認車輛在線上，且沒有網路軟體干擾車輛",
+  "welcomeAboard": "歡迎加入",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie 已連線，正在為您收集資料"
 }

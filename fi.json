@@ -2848,5 +2848,7 @@
   "pleaseWakeTheVehicleAndTryAgain": "Herätä ajoneuvo ja yritä uudelleen",
   "restartTheVehicleIfTheIssuePersists": "Käynnistä ajoneuvo uudelleen, jos ongelma jatkuu",
   "noTelemetryDataReceived": "Telemetriatietoja ei vastaanotettu",
-  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Varmista, että ajoneuvo on online ja ettei mikään verkkosovellus häiritse ajoneuvoa"
+  "makeSureTheVehicleIsOnlineAndThatNoNetwork": "Varmista, että ajoneuvo on online ja ettei mikään verkkosovellus häiritse ajoneuvoa",
+  "welcomeAboard": "Tervetuloa mukaan",
+  "tessieIsConnectedAndCollectingDataForYou": "Tessie on yhdistetty ja kerää tietoja puolestasi"
 }
